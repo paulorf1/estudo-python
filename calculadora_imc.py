@@ -7,11 +7,11 @@ altura = float(altura_str.replace(',', '.'))
 imc = peso / (altura ** 2)
 imc_arredondado = round(imc, 2)
 if imc_arredondado <= 18.5:
-    print('Seu IMC está abaixo do peso')
+    print('Seu IMC está Abaixo do peso')
 elif imc_arredondado >= 18.5 and imc_arredondado <= 24.99:
-    print('Seu IMC está normal')
+    print('Seu IMC está Normal')
 elif imc_arredondado >= 25 and imc_arredondado <= 29.99:
-    print('Seu IMC está sobrepeso')
+    print('Seu IMC está Sobrepeso')
 else:
     print('Seu IMC está Obeso')
 
