@@ -1,5 +1,3 @@
-# Exercício - sistema de perguntas e respostas
-
 perguntas = [
     {
         'Pergunta': 'Quanto é 2+2?',
