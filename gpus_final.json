@@ -1,0 +1,1448 @@
+[
+    {
+        "nome": "GeForce RTX 3060 12GB",
+        "score": 22944,
+        "memoria": 12,
+        "clock": 1912
+    },
+    {
+        "nome": "Radeon RX 9060 XT",
+        "score": 53120,
+        "memoria": 16,
+        "clock": 3320
+    },
+    {
+        "nome": "GeForce RTX 5070 Ti",
+        "score": 42720,
+        "memoria": 16,
+        "clock": 2670
+    },
+    {
+        "nome": "GeForce RTX 5070",
+        "score": 32580,
+        "memoria": 12,
+        "clock": 2715
+    },
+    {
+        "nome": "Radeon RX 9070 XT",
+        "score": 49600,
+        "memoria": 16,
+        "clock": 3100
+    },
+    {
+        "nome": "Radeon RX 7600 XT",
+        "score": 45280,
+        "memoria": 16,
+        "clock": 2830
+    },
+    {
+        "nome": "GeForce RTX 5090",
+        "score": 84960,
+        "memoria": 32,
+        "clock": 2655
+    },
+    {
+        "nome": "Radeon RX 6600",
+        "score": 19928,
+        "memoria": 8,
+        "clock": 2491
+    },
+    {
+        "nome": "GeForce RTX 5060 Ti",
+        "score": 43552,
+        "memoria": 16,
+        "clock": 2722
+    },
+    {
+        "nome": "GeForce RTX 4060",
+        "score": 21600,
+        "memoria": 8,
+        "clock": 2700
+    },
+    {
+        "nome": "Arc B580",
+        "score": 34200,
+        "memoria": 12,
+        "clock": 2850
+    },
+    {
+        "nome": "GeForce RTX 5060",
+        "score": 21416,
+        "memoria": 8,
+        "clock": 2677
+    },
+    {
+        "nome": "GeForce RTX 3050 6GB",
+        "score": 9222,
+        "memoria": 6,
+        "clock": 1537
+    },
+    {
+        "nome": "GeForce RTX 5080",
+        "score": 44880,
+        "memoria": 16,
+        "clock": 2805
+    },
+    {
+        "nome": "Radeon RX 9070",
+        "score": 43200,
+        "memoria": 16,
+        "clock": 2700
+    },
+    {
+        "nome": "Radeon RX 7800 XT",
+        "score": 41040,
+        "memoria": 16,
+        "clock": 2565
+    },
+    {
+        "nome": "Radeon RX 7900 XTX",
+        "score": 64320,
+        "memoria": 24,
+        "clock": 2680
+    },
+    {
+        "nome": "Radeon RX 580",
+        "score": 11600,
+        "memoria": 8,
+        "clock": 1450
+    },
+    {
+        "nome": "GeForce RTX 4070 SUPER",
+        "score": 32040,
+        "memoria": 12,
+        "clock": 2670
+    },
+    {
+        "nome": "GeForce RTX 3060 Ti",
+        "score": 15120,
+        "memoria": 8,
+        "clock": 1890
+    },
+    {
+        "nome": "GeForce RTX 4070 Ti SUPER",
+        "score": 44160,
+        "memoria": 16,
+        "clock": 2760
+    },
+    {
+        "nome": "Radeon RX 7600",
+        "score": 22040,
+        "memoria": 8,
+        "clock": 2755
+    },
+    {
+        "nome": "GeForce RTX 4070",
+        "score": 31680,
+        "memoria": 12,
+        "clock": 2640
+    },
+    {
+        "nome": "GeForce RTX 4090",
+        "score": 64800,
+        "memoria": 24,
+        "clock": 2700
+    },
+    {
+        "nome": "Radeon RX 7700 XT",
+        "score": 31188,
+        "memoria": 12,
+        "clock": 2599
+    },
+    {
+        "nome": "Radeon RX 7900 XT",
+        "score": 51200,
+        "memoria": 20,
+        "clock": 2560
+    },
+    {
+        "nome": "GeForce RTX 3070",
+        "score": 15480,
+        "memoria": 8,
+        "clock": 1935
+    },
+    {
+        "nome": "GeForce RTX 3050 8GB",
+        "score": 15120,
+        "memoria": 8,
+        "clock": 1890
+    },
+    {
+        "nome": "GeForce RTX 4060 Ti",
+        "score": 43920,
+        "memoria": 16,
+        "clock": 2745
+    },
+    {
+        "nome": "GeForce GT 710",
+        "score": 1908,
+        "memoria": 2,
+        "clock": 954
+    },
+    {
+        "nome": "GeForce GTX 1660 SUPER",
+        "score": 11250,
+        "memoria": 6,
+        "clock": 1875
+    },
+    {
+        "nome": "Radeon RX 6750 XT",
+        "score": 32556,
+        "memoria": 12,
+        "clock": 2713
+    },
+    {
+        "nome": "Radeon RX 6700 XT",
+        "score": 31464,
+        "memoria": 12,
+        "clock": 2622
+    },
+    {
+        "nome": "GeForce RTX 3080 10GB",
+        "score": 19350,
+        "memoria": 10,
+        "clock": 1935
+    },
+    {
+        "nome": "Radeon RX 6500 XT",
+        "score": 22840,
+        "memoria": 8,
+        "clock": 2855
+    },
+    {
+        "nome": "GeForce RTX 4080 SUPER",
+        "score": 43200,
+        "memoria": 16,
+        "clock": 2700
+    },
+    {
+        "nome": "GeForce RTX 3080 Ti",
+        "score": 22320,
+        "memoria": 12,
+        "clock": 1860
+    },
+    {
+        "nome": "Arc B570",
+        "score": 26900,
+        "memoria": 10,
+        "clock": 2690
+    },
+    {
+        "nome": "GeForce RTX 4080",
+        "score": 42480,
+        "memoria": 16,
+        "clock": 2655
+    },
+    {
+        "nome": "Radeon RX 6950 XT",
+        "score": 41040,
+        "memoria": 16,
+        "clock": 2565
+    },
+    {
+        "nome": "GeForce RTX 2060",
+        "score": 20160,
+        "memoria": 12,
+        "clock": 1680
+    },
+    {
+        "nome": "Radeon RX 6650 XT",
+        "score": 21552,
+        "memoria": 8,
+        "clock": 2694
+    },
+    {
+        "nome": "Arc A750",
+        "score": 18400,
+        "memoria": 8,
+        "clock": 2300
+    },
+    {
+        "nome": "GeForce RTX 4070 Ti",
+        "score": 42720,
+        "memoria": 16,
+        "clock": 2670
+    },
+    {
+        "nome": "GeForce GTX 1080 Ti",
+        "score": 19349,
+        "memoria": 11,
+        "clock": 1759
+    },
+    {
+        "nome": "GeForce RTX 3070 Ti",
+        "score": 15120,
+        "memoria": 8,
+        "clock": 1890
+    },
+    {
+        "nome": "GeForce RTX 3090",
+        "score": 46080,
+        "memoria": 24,
+        "clock": 1920
+    },
+    {
+        "nome": "Arc A380",
+        "score": 13500,
+        "memoria": 6,
+        "clock": 2250
+    },
+    {
+        "nome": "Radeon RX 7900 GRE",
+        "score": 38320,
+        "memoria": 16,
+        "clock": 2395
+    },
+    {
+        "nome": "Radeon RX 5700 XT",
+        "score": 16280,
+        "memoria": 8,
+        "clock": 2035
+    },
+    {
+        "nome": "GeForce RTX 2070 SUPER",
+        "score": 15480,
+        "memoria": 8,
+        "clock": 1935
+    },
+    {
+        "nome": "GeForce GTX 1050 Ti",
+        "score": 6024,
+        "memoria": 4,
+        "clock": 1506
+    },
+    {
+        "nome": "GeForce GTX 1650 SUPER",
+        "score": 7260,
+        "memoria": 4,
+        "clock": 1815
+    },
+    {
+        "nome": "GeForce RTX 2060 SUPER",
+        "score": 14880,
+        "memoria": 8,
+        "clock": 1860
+    },
+    {
+        "nome": "Radeon RX 6800",
+        "score": 35040,
+        "memoria": 16,
+        "clock": 2190
+    },
+    {
+        "nome": "GeForce RTX 5050",
+        "score": 21656,
+        "memoria": 8,
+        "clock": 2707
+    },
+    {
+        "nome": "GeForce GTX 1660 Ti",
+        "score": 11340,
+        "memoria": 6,
+        "clock": 1890
+    },
+    {
+        "nome": "GeForce GTX 1060 6GB",
+        "score": 11238,
+        "memoria": 6,
+        "clock": 1873
+    },
+    {
+        "nome": "GeForce GTX 1080",
+        "score": 15688,
+        "memoria": 8,
+        "clock": 1961
+    },
+    {
+        "nome": "GeForce GTX 1070",
+        "score": 15184,
+        "memoria": 8,
+        "clock": 1898
+    },
+    {
+        "nome": "Radeon RX 6800 XT",
+        "score": 37760,
+        "memoria": 16,
+        "clock": 2360
+    },
+    {
+        "nome": "GeForce GT 1030",
+        "score": 3088,
+        "memoria": 2,
+        "clock": 1544
+    },
+    {
+        "nome": "GeForce RTX 2080 Ti",
+        "score": 19965,
+        "memoria": 11,
+        "clock": 1815
+    },
+    {
+        "nome": "Radeon RX 6600 XT",
+        "score": 20856,
+        "memoria": 8,
+        "clock": 2607
+    },
+    {
+        "nome": "GeForce RTX 3090 Ti",
+        "score": 47520,
+        "memoria": 24,
+        "clock": 1980
+    },
+    {
+        "nome": "GeForce GT 1030 DDR4",
+        "score": 5720,
+        "memoria": 4,
+        "clock": 1430
+    },
+    {
+        "nome": "Radeon RX 5600 XT",
+        "score": 10620,
+        "memoria": 6,
+        "clock": 1770
+    },
+    {
+        "nome": "Arc A310",
+        "score": 8000,
+        "memoria": 4,
+        "clock": 2000
+    },
+    {
+        "nome": "GeForce RTX 3060 Ti LHR",
+        "score": 15120,
+        "memoria": 8,
+        "clock": 1890
+    },
+    {
+        "nome": "GeForce GTX 1650 G5",
+        "score": 7500,
+        "memoria": 4,
+        "clock": 1875
+    },
+    {
+        "nome": "Arc A770",
+        "score": 38400,
+        "memoria": 16,
+        "clock": 2400
+    },
+    {
+        "nome": "GeForce GTX 970",
+        "score": 5520,
+        "memoria": 4,
+        "clock": 1380
+    },
+    {
+        "nome": "GeForce GT 730",
+        "score": 3608,
+        "memoria": 4,
+        "clock": 902
+    },
+    {
+        "nome": "Radeon RX 570",
+        "score": 10720,
+        "memoria": 8,
+        "clock": 1340
+    },
+    {
+        "nome": "GeForce RTX 2080",
+        "score": 15240,
+        "memoria": 8,
+        "clock": 1905
+    },
+    {
+        "nome": "GeForce GTX 1070 Ti",
+        "score": 14880,
+        "memoria": 8,
+        "clock": 1860
+    },
+    {
+        "nome": "GeForce GTX 1660",
+        "score": 11160,
+        "memoria": 6,
+        "clock": 1860
+    },
+    {
+        "nome": "GeForce RTX 2080 SUPER",
+        "score": 15120,
+        "memoria": 8,
+        "clock": 1890
+    },
+    {
+        "nome": "Radeon RX 5500 XT",
+        "score": 14920,
+        "memoria": 8,
+        "clock": 1865
+    },
+    {
+        "nome": "Radeon RX 6900 XT",
+        "score": 41600,
+        "memoria": 16,
+        "clock": 2600
+    },
+    {
+        "nome": "GeForce GTX 1060 3GB",
+        "score": 5580,
+        "memoria": 3,
+        "clock": 1860
+    },
+    {
+        "nome": "GeForce RTX 2070",
+        "score": 14880,
+        "memoria": 8,
+        "clock": 1860
+    },
+    {
+        "nome": "Radeon RX 6700",
+        "score": 24950,
+        "memoria": 10,
+        "clock": 2495
+    },
+    {
+        "nome": "GeForce RTX 3060 8GB",
+        "score": 14936,
+        "memoria": 8,
+        "clock": 1867
+    },
+    {
+        "nome": "GeForce GTX 1650 G6",
+        "score": 7260,
+        "memoria": 4,
+        "clock": 1815
+    },
+    {
+        "nome": "GeForce GTX 1050",
+        "score": 4746,
+        "memoria": 3,
+        "clock": 1582
+    },
+    {
+        "nome": "Radeon RX 590",
+        "score": 12800,
+        "memoria": 8,
+        "clock": 1600
+    },
+    {
+        "nome": "TITAN RTX",
+        "score": 42480,
+        "memoria": 24,
+        "clock": 1770
+    },
+    {
+        "nome": "Radeon RX 550 - 512",
+        "score": 4824,
+        "memoria": 4,
+        "clock": 1206
+    },
+    {
+        "nome": "GeForce GTX 750 Ti",
+        "score": 4808,
+        "memoria": 4,
+        "clock": 1202
+    },
+    {
+        "nome": "GeForce GTX 960",
+        "score": 5468,
+        "memoria": 4,
+        "clock": 1367
+    },
+    {
+        "nome": "GeForce RTX 3080 12GB LHR",
+        "score": 22860,
+        "memoria": 12,
+        "clock": 1905
+    },
+    {
+        "nome": "Arc A580",
+        "score": 16000,
+        "memoria": 8,
+        "clock": 2000
+    },
+    {
+        "nome": "GeForce RTX 3080 10GB LHR",
+        "score": 19350,
+        "memoria": 10,
+        "clock": 1935
+    },
+    {
+        "nome": "GeForce GTX 980",
+        "score": 5724,
+        "memoria": 4,
+        "clock": 1431
+    },
+    {
+        "nome": "GeForce RTX 3070 LHR",
+        "score": 15480,
+        "memoria": 8,
+        "clock": 1935
+    },
+    {
+        "nome": "GeForce RTX 2060 12GB",
+        "score": 20340,
+        "memoria": 12,
+        "clock": 1695
+    },
+    {
+        "nome": "GeForce GTX 980 Ti",
+        "score": 8202,
+        "memoria": 6,
+        "clock": 1367
+    },
+    {
+        "nome": "Radeon RX 5700",
+        "score": 14120,
+        "memoria": 8,
+        "clock": 1765
+    },
+    {
+        "nome": "GeForce GTX 560 SE",
+        "score": 776,
+        "memoria": 1,
+        "clock": 776
+    },
+    {
+        "nome": "Radeon HD 6570",
+        "score": 1300,
+        "memoria": 2,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon RX 480",
+        "score": 10736,
+        "memoria": 8,
+        "clock": 1342
+    },
+    {
+        "nome": "GeForce GTX Titan X",
+        "score": 14892,
+        "memoria": 12,
+        "clock": 1241
+    },
+    {
+        "nome": "Radeon RX 470",
+        "score": 10160,
+        "memoria": 8,
+        "clock": 1270
+    },
+    {
+        "nome": "Radeon R9 390",
+        "score": 8800,
+        "memoria": 8,
+        "clock": 1100
+    },
+    {
+        "nome": "Radeon R5 230",
+        "score": 2100,
+        "memoria": 2,
+        "clock": 1050
+    },
+    {
+        "nome": "GeForce 8400 GS",
+        "score": 520,
+        "memoria": 1,
+        "clock": 520
+    },
+    {
+        "nome": "Radeon HD 4550",
+        "score": 625,
+        "memoria": 1,
+        "clock": 625
+    },
+    {
+        "nome": "GeForce GTX 770",
+        "score": 4808,
+        "memoria": 4,
+        "clock": 1202
+    },
+    {
+        "nome": "GeForce GTX 760",
+        "score": 4600,
+        "memoria": 4,
+        "clock": 1150
+    },
+    {
+        "nome": "Arc Pro A60",
+        "score": 24600,
+        "memoria": 12,
+        "clock": 2050
+    },
+    {
+        "nome": "Titan X (Pascal)",
+        "score": 18372,
+        "memoria": 12,
+        "clock": 1531
+    },
+    {
+        "nome": "GeForce GTX 660",
+        "score": 3216,
+        "memoria": 3,
+        "clock": 1072
+    },
+    {
+        "nome": "Radeon RX 560 - 1024",
+        "score": 5344,
+        "memoria": 4,
+        "clock": 1336
+    },
+    {
+        "nome": "GeForce 7200 GS",
+        "score": 225,
+        "memoria": 0.5,
+        "clock": 450
+    },
+    {
+        "nome": "GeForce GTX 950",
+        "score": 2810,
+        "memoria": 2,
+        "clock": 1405
+    },
+    {
+        "nome": "Radeon HD 5450",
+        "score": 1300,
+        "memoria": 2,
+        "clock": 650
+    },
+    {
+        "nome": "Arc Pro A50",
+        "score": 14100,
+        "memoria": 6,
+        "clock": 2350
+    },
+    {
+        "nome": "Radeon HD 7750",
+        "score": 3200,
+        "memoria": 4,
+        "clock": 800
+    },
+    {
+        "nome": "Arc Pro A40",
+        "score": 10200,
+        "memoria": 6,
+        "clock": 1700
+    },
+    {
+        "nome": "GeForce GTX 660 Ti",
+        "score": 3138,
+        "memoria": 3,
+        "clock": 1046
+    },
+    {
+        "nome": "Titan V",
+        "score": 17460,
+        "memoria": 12,
+        "clock": 1455
+    },
+    {
+        "nome": "GeForce GT 740",
+        "score": 4340,
+        "memoria": 4,
+        "clock": 1085
+    },
+    {
+        "nome": "Radeon RX 460",
+        "score": 5024,
+        "memoria": 4,
+        "clock": 1256
+    },
+    {
+        "nome": "Radeon R9 380",
+        "score": 4120,
+        "memoria": 4,
+        "clock": 1030
+    },
+    {
+        "nome": "GeForce 210",
+        "score": 520,
+        "memoria": 1,
+        "clock": 520
+    },
+    {
+        "nome": "Radeon HD 4670",
+        "score": 750,
+        "memoria": 1,
+        "clock": 750
+    },
+    {
+        "nome": "GeForce GTX 1630",
+        "score": 7380,
+        "memoria": 4,
+        "clock": 1845
+    },
+    {
+        "nome": "Radeon R9 270X",
+        "score": 4480,
+        "memoria": 4,
+        "clock": 1120
+    },
+    {
+        "nome": "Radeon R9 290X",
+        "score": 8480,
+        "memoria": 8,
+        "clock": 1060
+    },
+    {
+        "nome": "GeForce GTX 950 75W",
+        "score": 2506,
+        "memoria": 2,
+        "clock": 1253
+    },
+    {
+        "nome": "GeForce GTX 560",
+        "score": 1700,
+        "memoria": 2,
+        "clock": 850
+    },
+    {
+        "nome": "Radeon R9 290",
+        "score": 4160,
+        "memoria": 4,
+        "clock": 1040
+    },
+    {
+        "nome": "GeForce GTX Titan Black",
+        "score": 6432,
+        "memoria": 6,
+        "clock": 1072
+    },
+    {
+        "nome": "GeForce GTX 650",
+        "score": 2404,
+        "memoria": 2,
+        "clock": 1202
+    },
+    {
+        "nome": "Radeon HD 6450",
+        "score": 1300,
+        "memoria": 2,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon R7 240",
+        "score": 3200,
+        "memoria": 4,
+        "clock": 800
+    },
+    {
+        "nome": "GeForce GT 610",
+        "score": 1640,
+        "memoria": 2,
+        "clock": 820
+    },
+    {
+        "nome": "GeForce GTX 670",
+        "score": 4024,
+        "memoria": 4,
+        "clock": 1006
+    },
+    {
+        "nome": "GeForce GT 620",
+        "score": 1420,
+        "memoria": 2,
+        "clock": 710
+    },
+    {
+        "nome": "GeForce GTX 560 Ti",
+        "score": 1800,
+        "memoria": 2,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 780 Ti",
+        "score": 3450,
+        "memoria": 3,
+        "clock": 1150
+    },
+    {
+        "nome": "GeForce 9600 GT",
+        "score": 325,
+        "memoria": 0.5,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon R9 390X2",
+        "score": 16000,
+        "memoria": 16,
+        "clock": 1000
+    },
+    {
+        "nome": "GeForce GT 220",
+        "score": 625,
+        "memoria": 1,
+        "clock": 625
+    },
+    {
+        "nome": "Radeon R9 Fury",
+        "score": 4200,
+        "memoria": 4,
+        "clock": 1050
+    },
+    {
+        "nome": "GeForce GTX 780",
+        "score": 6120,
+        "memoria": 6,
+        "clock": 1020
+    },
+    {
+        "nome": "GeForce GTX 260",
+        "score": 595,
+        "memoria": 0.875,
+        "clock": 680
+    },
+    {
+        "nome": "GeForce GTX 550 Ti",
+        "score": 1800,
+        "memoria": 2,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 750",
+        "score": 2640,
+        "memoria": 2,
+        "clock": 1320
+    },
+    {
+        "nome": "GeForce GTX 460",
+        "score": 1420,
+        "memoria": 2,
+        "clock": 710
+    },
+    {
+        "nome": "GeForce GTX 680",
+        "score": 4444,
+        "memoria": 4,
+        "clock": 1111
+    },
+    {
+        "nome": "Radeon R7 250",
+        "score": 4200,
+        "memoria": 4,
+        "clock": 1050
+    },
+    {
+        "nome": "Radeon R9 390X",
+        "score": 8800,
+        "memoria": 8,
+        "clock": 1100
+    },
+    {
+        "nome": "Radeon R9 380X",
+        "score": 4160,
+        "memoria": 4,
+        "clock": 1040
+    },
+    {
+        "nome": "GeForce 9800 GT",
+        "score": 600,
+        "memoria": 1,
+        "clock": 600
+    },
+    {
+        "nome": "GeForce GTX 480",
+        "score": 1230,
+        "memoria": 1.5,
+        "clock": 820
+    },
+    {
+        "nome": "Radeon R7 370",
+        "score": 4300,
+        "memoria": 4,
+        "clock": 1075
+    },
+    {
+        "nome": "GeForce GT 520",
+        "score": 1800,
+        "memoria": 2,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 690",
+        "score": 3660,
+        "memoria": 4,
+        "clock": 915
+    },
+    {
+        "nome": "GeForce 9500 GT",
+        "score": 550,
+        "memoria": 1,
+        "clock": 550
+    },
+    {
+        "nome": "Radeon HD 7970",
+        "score": 3300,
+        "memoria": 3,
+        "clock": 1100
+    },
+    {
+        "nome": "Radeon R9 280X",
+        "score": 6300,
+        "memoria": 6,
+        "clock": 1050
+    },
+    {
+        "nome": "GeForce GTX Titan",
+        "score": 5256,
+        "memoria": 6,
+        "clock": 876
+    },
+    {
+        "nome": "Radeon R7 260X",
+        "score": 2376,
+        "memoria": 2,
+        "clock": 1188
+    },
+    {
+        "nome": "GeForce GT 640",
+        "score": 3608,
+        "memoria": 4,
+        "clock": 902
+    },
+    {
+        "nome": "Radeon HD 5770",
+        "score": 900,
+        "memoria": 1,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 580",
+        "score": 2700,
+        "memoria": 3,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 760 X2",
+        "score": 4288,
+        "memoria": 4,
+        "clock": 1072
+    },
+    {
+        "nome": "Radeon R9 270",
+        "score": 2140,
+        "memoria": 2,
+        "clock": 1070
+    },
+    {
+        "nome": "GeForce GTX Titan Z",
+        "score": 10980,
+        "memoria": 12,
+        "clock": 915
+    },
+    {
+        "nome": "Radeon HD 4350",
+        "score": 600,
+        "memoria": 1,
+        "clock": 600
+    },
+    {
+        "nome": "Radeon R9 295X2",
+        "score": 8240,
+        "memoria": 8,
+        "clock": 1030
+    },
+    {
+        "nome": "Radeon HD 7850",
+        "score": 4000,
+        "memoria": 4,
+        "clock": 1000
+    },
+    {
+        "nome": "GeForce GTX 570",
+        "score": 1830,
+        "memoria": 2.5,
+        "clock": 732
+    },
+    {
+        "nome": "Radeon HD 3450",
+        "score": 300,
+        "memoria": 0.5,
+        "clock": 600
+    },
+    {
+        "nome": "GeForce GT 630",
+        "score": 3240,
+        "memoria": 4,
+        "clock": 810
+    },
+    {
+        "nome": "Radeon HD 7790",
+        "score": 2150,
+        "memoria": 2,
+        "clock": 1075
+    },
+    {
+        "nome": "Radeon R9 280",
+        "score": 3216,
+        "memoria": 3,
+        "clock": 1072
+    },
+    {
+        "nome": "Radeon HD 6970",
+        "score": 1880,
+        "memoria": 2,
+        "clock": 940
+    },
+    {
+        "nome": "GeForce 8500 GT",
+        "score": 112,
+        "memoria": 0.25,
+        "clock": 450
+    },
+    {
+        "nome": "GeForce GTS 450",
+        "score": 1566,
+        "memoria": 2,
+        "clock": 783
+    },
+    {
+        "nome": "Radeon HD 6850",
+        "score": 1550,
+        "memoria": 2,
+        "clock": 775
+    },
+    {
+        "nome": "Radeon 9550",
+        "score": 31,
+        "memoria": 0.125,
+        "clock": 250
+    },
+    {
+        "nome": "Radeon HD 7770 GHz Edition",
+        "score": 1120,
+        "memoria": 1,
+        "clock": 1120
+    },
+    {
+        "nome": "GeForce GTX 650 Ti",
+        "score": 2142,
+        "memoria": 2,
+        "clock": 1071
+    },
+    {
+        "nome": "GeForce GT 720",
+        "score": 1594,
+        "memoria": 2,
+        "clock": 797
+    },
+    {
+        "nome": "Radeon R9 Fury X",
+        "score": 4200,
+        "memoria": 4,
+        "clock": 1050
+    },
+    {
+        "nome": "Radeon R7 350",
+        "score": 1850,
+        "memoria": 2,
+        "clock": 925
+    },
+    {
+        "nome": "Radeon RX 550 - 640",
+        "score": 4824,
+        "memoria": 4,
+        "clock": 1206
+    },
+    {
+        "nome": "Radeon HD 5670",
+        "score": 1550,
+        "memoria": 2,
+        "clock": 775
+    },
+    {
+        "nome": "GeForce GTX 590",
+        "score": 1890,
+        "memoria": 3,
+        "clock": 630
+    },
+    {
+        "nome": "Radeon HD 7870",
+        "score": 2200,
+        "memoria": 2,
+        "clock": 1100
+    },
+    {
+        "nome": "Radeon HD 7770",
+        "score": 2040,
+        "memoria": 2,
+        "clock": 1020
+    },
+    {
+        "nome": "Radeon HD 7970 GHz Edition",
+        "score": 6600,
+        "memoria": 6,
+        "clock": 1100
+    },
+    {
+        "nome": "Radeon HD 7990",
+        "score": 6300,
+        "memoria": 6,
+        "clock": 1050
+    },
+    {
+        "nome": "Radeon HD 7870 GHz Edition",
+        "score": 2300,
+        "memoria": 2,
+        "clock": 1150
+    },
+    {
+        "nome": "Radeon R7 360",
+        "score": 2400,
+        "memoria": 2,
+        "clock": 1200
+    },
+    {
+        "nome": "GeForce GTS 250",
+        "score": 738,
+        "memoria": 1,
+        "clock": 738
+    },
+    {
+        "nome": "Radeon HD 5850",
+        "score": 1530,
+        "memoria": 2,
+        "clock": 765
+    },
+    {
+        "nome": "Radeon HD 4850",
+        "score": 625,
+        "memoria": 1,
+        "clock": 625
+    },
+    {
+        "nome": "Radeon HD 6870",
+        "score": 1800,
+        "memoria": 2,
+        "clock": 900
+    },
+    {
+        "nome": "GeForce GTX 580 X2",
+        "score": 2346,
+        "memoria": 3,
+        "clock": 782
+    },
+    {
+        "nome": "GeForce GTX 560 Ti X2",
+        "score": 1700,
+        "memoria": 2,
+        "clock": 850
+    },
+    {
+        "nome": "Radeon HD 6670",
+        "score": 1600,
+        "memoria": 2,
+        "clock": 800
+    },
+    {
+        "nome": "Radeon HD 4870",
+        "score": 750,
+        "memoria": 1,
+        "clock": 750
+    },
+    {
+        "nome": "GeForce GT 430",
+        "score": 2800,
+        "memoria": 4,
+        "clock": 700
+    },
+    {
+        "nome": "Radeon HD 7950",
+        "score": 2850,
+        "memoria": 3,
+        "clock": 950
+    },
+    {
+        "nome": "Radeon R7 265",
+        "score": 2072,
+        "memoria": 2,
+        "clock": 1036
+    },
+    {
+        "nome": "GeForce GTX 650 Ti Boost",
+        "score": 2144,
+        "memoria": 2,
+        "clock": 1072
+    },
+    {
+        "nome": "GeForce GTX 470",
+        "score": 875,
+        "memoria": 1.25,
+        "clock": 700
+    },
+    {
+        "nome": "Radeon HD 5870",
+        "score": 1700,
+        "memoria": 2,
+        "clock": 850
+    },
+    {
+        "nome": "GeForce 9400 GT",
+        "score": 275,
+        "memoria": 0.5,
+        "clock": 550
+    },
+    {
+        "nome": "Radeon HD 6950",
+        "score": 1760,
+        "memoria": 2,
+        "clock": 880
+    },
+    {
+        "nome": "Radeon HD 7870 XT",
+        "score": 1850,
+        "memoria": 2,
+        "clock": 925
+    },
+    {
+        "nome": "Radeon R7 250X",
+        "score": 2100,
+        "memoria": 2,
+        "clock": 1050
+    },
+    {
+        "nome": "Radeon HD 5970",
+        "score": 3400,
+        "memoria": 4,
+        "clock": 850
+    },
+    {
+        "nome": "Radeon HD 4650",
+        "score": 650,
+        "memoria": 1,
+        "clock": 650
+    },
+    {
+        "nome": "GeForce 9600 GSO",
+        "score": 900,
+        "memoria": 1.5,
+        "clock": 600
+    },
+    {
+        "nome": "Radeon HD 5830",
+        "score": 825,
+        "memoria": 1,
+        "clock": 825
+    },
+    {
+        "nome": "GeForce GT 440",
+        "score": 1620,
+        "memoria": 2,
+        "clock": 810
+    },
+    {
+        "nome": "Radeon HD 5550",
+        "score": 650,
+        "memoria": 1,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon HD 5750",
+        "score": 740,
+        "memoria": 1,
+        "clock": 740
+    },
+    {
+        "nome": "Radeon HD 5870 X2",
+        "score": 3400,
+        "memoria": 4,
+        "clock": 850
+    },
+    {
+        "nome": "GeForce GTX 460 SE",
+        "score": 810,
+        "memoria": 1,
+        "clock": 810
+    },
+    {
+        "nome": "GeForce GTX 465",
+        "score": 625,
+        "memoria": 1,
+        "clock": 625
+    },
+    {
+        "nome": "Radeon HD 6990",
+        "score": 3320,
+        "memoria": 4,
+        "clock": 830
+    },
+    {
+        "nome": "Radeon HD 6750",
+        "score": 740,
+        "memoria": 1,
+        "clock": 740
+    },
+    {
+        "nome": "Radeon HD 6770",
+        "score": 900,
+        "memoria": 1,
+        "clock": 900
+    },
+    {
+        "nome": "Radeon R9 285",
+        "score": 1950,
+        "memoria": 2,
+        "clock": 975
+    },
+    {
+        "nome": "Radeon R9 Nano",
+        "score": 4000,
+        "memoria": 4,
+        "clock": 1000
+    },
+    {
+        "nome": "Radeon R5 220",
+        "score": 650,
+        "memoria": 1,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon HD 5570",
+        "score": 1300,
+        "memoria": 2,
+        "clock": 650
+    },
+    {
+        "nome": "Radeon HD 4670 X2",
+        "score": 1450,
+        "memoria": 2,
+        "clock": 725
+    },
+    {
+        "nome": "Radeon HD 6790",
+        "score": 900,
+        "memoria": 1,
+        "clock": 900
+    },
+    {
+        "nome": "Radeon HD 4890",
+        "score": 850,
+        "memoria": 1,
+        "clock": 850
+    },
+    {
+        "nome": "GeForce GTX 560 Ti 448",
+        "score": 1012,
+        "memoria": 1.25,
+        "clock": 810
+    },
+    {
+        "nome": "Radeon HD 4830",
+        "score": 287,
+        "memoria": 0.5,
+        "clock": 575
+    },
+    {
+        "nome": "GeForce GTX 460 X2",
+        "score": 1400,
+        "memoria": 2,
+        "clock": 700
+    },
+    {
+        "nome": "Radeon HD 6870 X2",
+        "score": 1800,
+        "memoria": 2,
+        "clock": 900
+    },
+    {
+        "nome": "Radeon R7 260",
+        "score": 1050,
+        "memoria": 1,
+        "clock": 1050
+    }
+]

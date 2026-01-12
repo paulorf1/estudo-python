@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Intel i5-6500",
+        "perf": 22
+    },
+    {
+        "nome": "Intel i7-6700K",
+        "perf": 30
+    },
+    {
+        "nome": "Ryzen 5 1600",
+        "perf": 28
+    },
+    {
+        "nome": "Ryzen 5 2600",
+        "perf": 35
+    },
+    {
+        "nome": "Ryzen 7 2700X",
+        "perf": 40
+    },
+    {
+        "nome": "Intel i5-8400",
+        "perf": 38
+    },
+    {
+        "nome": "Intel i7-8700K",
+        "perf": 50
+    },
+    {
+        "nome": "Ryzen 5 3600",
+        "perf": 48
+    },
+    {
+        "nome": "Ryzen 5 3600X",
+        "perf": 50
+    },
+    {
+        "nome": "Ryzen 5 4600G",
+        "perf": 52
+    },
+    {
+        "nome": "Ryzen 5 5500",
+        "perf": 58
+    },
+    {
+        "nome": "Ryzen 7 3700X",
+        "perf": 58
+    },
+    {
+        "nome": "Intel i5-9600K",
+        "perf": 48
+    },
+    {
+        "nome": "Intel i7-9700K",
+        "perf": 58
+    },
+    {
+        "nome": "Intel i9-9900K",
+        "perf": 65
+    },
+    {
+        "nome": "Ryzen 5 5600",
+        "perf": 65
+    },
+    {
+        "nome": "Ryzen 5 5600X",
+        "perf": 68
+    },
+    {
+        "nome": "Ryzen 7 5800X",
+        "perf": 75
+    },
+    {
+        "nome": "Ryzen 7 5800X3D",
+        "perf": 85
+    },
+    {
+        "nome": "Intel i5-10400F",
+        "perf": 50
+    },
+    {
+        "nome": "Intel i7-10700K",
+        "perf": 65
+    },
+    {
+        "nome": "Intel i5-11400F",
+        "perf": 55
+    },
+    {
+        "nome": "Intel i7-11700K",
+        "perf": 70
+    },
+    {
+        "nome": "Intel i5-12400F",
+        "perf": 65
+    },
+    {
+        "nome": "Intel i5-12600K",
+        "perf": 78
+    },
+    {
+        "nome": "Intel i7-12700K",
+        "perf": 88
+    },
+    {
+        "nome": "Ryzen 5 7600",
+        "perf": 85
+    },
+    {
+        "nome": "Ryzen 7 7700X",
+        "perf": 95
+    },
+    {
+        "nome": "Ryzen 7 7800X3D",
+        "perf": 105
+    },
+    {
+        "nome": "Intel i5-13600K",
+        "perf": 92
+    },
+    {
+        "nome": "Intel i7-13700K",
+        "perf": 105
+    },
+    {
+        "nome": "Intel i9-13900K",
+        "perf": 115
+    },
+    {
+        "nome": "Intel i5-14600K",
+        "perf": 95
+    },
+    {
+        "nome": "Intel i7-14700K",
+        "perf": 110
+    },
+    {
+        "nome": "Intel i9-14900K",
+        "perf": 120
+    }
+]

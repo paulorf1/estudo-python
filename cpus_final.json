@@ -1,0 +1,5270 @@
+[
+    {
+        "nome": "AMD Ryzen 7 9800X3D",
+        "score": 41,
+        "cores": 8,
+        "clock": 5.2
+    },
+    {
+        "nome": "AMD Ryzen 7 7800X3D",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 5 7600X",
+        "score": 31,
+        "cores": 6,
+        "clock": 5.3
+    },
+    {
+        "nome": "AMD Ryzen 5 9600X",
+        "score": 32,
+        "cores": 6,
+        "clock": 5.4
+    },
+    {
+        "nome": "AMD Ryzen 7 7700X",
+        "score": 43,
+        "cores": 8,
+        "clock": 5.4
+    },
+    {
+        "nome": "AMD Ryzen 9 9950X3D",
+        "score": 91,
+        "cores": 16,
+        "clock": 5.7
+    },
+    {
+        "nome": "AMD Ryzen 5 5500",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Ryzen 7 9700X",
+        "score": 44,
+        "cores": 8,
+        "clock": 5.5
+    },
+    {
+        "nome": "AMD Ryzen 5 5600X",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD Ryzen 5 5600",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Ryzen 7 5800X",
+        "score": 37,
+        "cores": 8,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i7-14700K",
+        "score": 112,
+        "cores": 20,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Core i9-14900K",
+        "score": 144,
+        "cores": 24,
+        "clock": 6
+    },
+    {
+        "nome": "Intel Core i5-12400F",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Ryzen 5 3600",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Ryzen 5 7600",
+        "score": 30,
+        "cores": 6,
+        "clock": 5.1
+    },
+    {
+        "nome": "AMD Ryzen 7 5700X",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD Ryzen 9 7900X",
+        "score": 67,
+        "cores": 12,
+        "clock": 5.6
+    },
+    {
+        "nome": "AMD Ryzen 9 9900X",
+        "score": 67,
+        "cores": 12,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Core i5-14600K",
+        "score": 74,
+        "cores": 14,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core Ultra 7 265K",
+        "score": 110,
+        "cores": 20,
+        "clock": 5.5
+    },
+    {
+        "nome": "AMD Ryzen 7 5700X3D",
+        "score": 32,
+        "cores": 8,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i5-14400F",
+        "score": 47,
+        "cores": 10,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 9 9950X",
+        "score": 91,
+        "cores": 16,
+        "clock": 5.7
+    },
+    {
+        "nome": "AMD Ryzen 5 7500F",
+        "score": 30,
+        "cores": 6,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 7 5800XT",
+        "score": 38,
+        "cores": 8,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core Ultra 9 285K",
+        "score": 136,
+        "cores": 24,
+        "clock": 5.7
+    },
+    {
+        "nome": "Intel Core i7-12700K",
+        "score": 60,
+        "cores": 12,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 5 7600X3D",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 5 5600G",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Ryzen 7 7700",
+        "score": 42,
+        "cores": 8,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i5-13400F",
+        "score": 46,
+        "cores": 10,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i7-12700KF",
+        "score": 60,
+        "cores": 12,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 9 5900X",
+        "score": 57,
+        "cores": 12,
+        "clock": 4.8
+    },
+    {
+        "nome": "AMD Ryzen 7 3700X",
+        "score": 35,
+        "cores": 8,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-12600KF",
+        "score": 49,
+        "cores": 10,
+        "clock": 4.9
+    },
+    {
+        "nome": "AMD Ryzen 5 8400F",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 5 8500G",
+        "score": 30,
+        "cores": 6,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Threadripper 3990X",
+        "score": 275,
+        "cores": 64,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i5-12600K",
+        "score": 49,
+        "cores": 10,
+        "clock": 4.9
+    },
+    {
+        "nome": "AMD Ryzen 7 5700G",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD Ryzen 9 5950X",
+        "score": 78,
+        "cores": 16,
+        "clock": 4.9
+    },
+    {
+        "nome": "AMD Ryzen 7 5800X3D",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i3-12100F",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "AMD Ryzen 9 7950X",
+        "score": 91,
+        "cores": 16,
+        "clock": 5.7
+    },
+    {
+        "nome": "Intel Core i5-14600KF",
+        "score": 74,
+        "cores": 14,
+        "clock": 5.3
+    },
+    {
+        "nome": "AMD Ryzen 5 4500",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "AMD Ryzen 5 8600G",
+        "score": 30,
+        "cores": 6,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 7 5700",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i7-14700KF",
+        "score": 112,
+        "cores": 20,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Core i9-12900K",
+        "score": 83,
+        "cores": 16,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core Ultra 7 265KF",
+        "score": 110,
+        "cores": 20,
+        "clock": 5.5
+    },
+    {
+        "nome": "AMD Ryzen 9 9900X3D",
+        "score": 66,
+        "cores": 12,
+        "clock": 5.5
+    },
+    {
+        "nome": "AMD Ryzen 9 7950X3D",
+        "score": 91,
+        "cores": 16,
+        "clock": 5.7
+    },
+    {
+        "nome": "AMD Ryzen 7 8700G",
+        "score": 40,
+        "cores": 8,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i9-14900KF",
+        "score": 144,
+        "cores": 24,
+        "clock": 6
+    },
+    {
+        "nome": "Intel Core i7-13700K",
+        "score": 86,
+        "cores": 16,
+        "clock": 5.4
+    },
+    {
+        "nome": "Intel Core i5-10400F",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.3
+    },
+    {
+        "nome": "AMD Ryzen 7 8700F",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 5 2600",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i9-14900KS",
+        "score": 148,
+        "cores": 24,
+        "clock": 6.2
+    },
+    {
+        "nome": "AMD Ryzen 5 5600GT",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i5-13600KF",
+        "score": 71,
+        "cores": 14,
+        "clock": 5.1
+    },
+    {
+        "nome": "AMD Ryzen 9 5900XT",
+        "score": 76,
+        "cores": 16,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-14700F",
+        "score": 108,
+        "cores": 20,
+        "clock": 5.4
+    },
+    {
+        "nome": "AMD Ryzen 9 7900",
+        "score": 64,
+        "cores": 12,
+        "clock": 5.4
+    },
+    {
+        "nome": "Intel Core i7-9700K",
+        "score": 39,
+        "cores": 8,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i7-8700K",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 3 3200G",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "AMD Ryzen 5 3400G",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i9-13900K",
+        "score": 139,
+        "cores": 24,
+        "clock": 5.8
+    },
+    {
+        "nome": "Intel Core i5-12400",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Ryzen 5 3600X",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i9-9900K",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "AMD Ryzen 7 2700X",
+        "score": 34,
+        "cores": 8,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i3-14100F",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i9-12900KF",
+        "score": 83,
+        "cores": 16,
+        "clock": 5.2
+    },
+    {
+        "nome": "AMD Ryzen 5 5600XT",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i5-13600K",
+        "score": 71,
+        "cores": 14,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i7-7700K",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Ryzen 3 4100",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core Ultra 5 245K",
+        "score": 72,
+        "cores": 14,
+        "clock": 5.2
+    },
+    {
+        "nome": "AMD Ryzen 3 3100",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i5-9400F",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i7-13700KF",
+        "score": 86,
+        "cores": 16,
+        "clock": 5.4
+    },
+    {
+        "nome": "Intel Core i7-10700K",
+        "score": 40,
+        "cores": 8,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i5-14400",
+        "score": 47,
+        "cores": 10,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 9 3900X",
+        "score": 55,
+        "cores": 12,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i7-6700K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Ryzen 9 7900X3D",
+        "score": 67,
+        "cores": 12,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Core i5-11400F",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Threadripper 3970X",
+        "score": 144,
+        "cores": 32,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Ryzen 7 3800X",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Ryzen 5 2600X",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i7-12700F",
+        "score": 58,
+        "cores": 12,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-9600K",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core Ultra 5 225F",
+        "score": 49,
+        "cores": 10,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i7-11700K",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i3-12100",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i5-10400",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i7-8700",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i3-14100",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i3-13100F",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Pentium E5700",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i9-10900K",
+        "score": 53,
+        "cores": 10,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i5-13400",
+        "score": 46,
+        "cores": 10,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i7-7700",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i7-13700F",
+        "score": 83,
+        "cores": 16,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core i5-6500",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "AMD Ryzen 5 5500GT",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i9-13900KF",
+        "score": 139,
+        "cores": 24,
+        "clock": 5.8
+    },
+    {
+        "nome": "AMD Ryzen 5 4600G",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Ryzen 5 9600",
+        "score": 31,
+        "cores": 6,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core Ultra 5 235",
+        "score": 70,
+        "cores": 14,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i7-4790K",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-8400",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i7-6700",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core Ultra 5 225",
+        "score": 49,
+        "cores": 10,
+        "clock": 4.9
+    },
+    {
+        "nome": "AMD Ryzen 5 3500X",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i7-14700",
+        "score": 108,
+        "cores": 20,
+        "clock": 5.4
+    },
+    {
+        "nome": "AMD Ryzen 5 1600 (14nm)",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i9-11900K",
+        "score": 42,
+        "cores": 8,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i7-10700F",
+        "score": 38,
+        "cores": 8,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i3-10100F",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i7-11700F",
+        "score": 39,
+        "cores": 8,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-13500",
+        "score": 67,
+        "cores": 14,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Pentium E2220",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core i7-12700",
+        "score": 58,
+        "cores": 12,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-10600K",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i5-6600K",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core Ultra 9 285",
+        "score": 134,
+        "cores": 24,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Core i7-4770K",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i7-3770",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i7-10700",
+        "score": 38,
+        "cores": 8,
+        "clock": 4.8
+    },
+    {
+        "nome": "AMD Ryzen 9 3950X",
+        "score": 75,
+        "cores": 16,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i3-6100",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "AMD Threadripper 3960X",
+        "score": 108,
+        "cores": 24,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Ryzen 7 2700",
+        "score": 32,
+        "cores": 8,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i5-7500",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i5-14500",
+        "score": 70,
+        "cores": 14,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i7-9700",
+        "score": 37,
+        "cores": 8,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core Ultra 7 265",
+        "score": 106,
+        "cores": 20,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i5-11400",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i9-10850K",
+        "score": 52,
+        "cores": 10,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core i5-7400",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i9-13900KS",
+        "score": 144,
+        "cores": 24,
+        "clock": 6
+    },
+    {
+        "nome": "Intel Core Ultra 7 265F",
+        "score": 106,
+        "cores": 20,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i3-8100",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-4790",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-2699 V4",
+        "score": 79,
+        "cores": 22,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i5-4690K",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E5-2680 V4",
+        "score": 46,
+        "cores": 14,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i9-12900KS",
+        "score": 88,
+        "cores": 16,
+        "clock": 5.5
+    },
+    {
+        "nome": "AMD Ryzen 7 1700",
+        "score": 29,
+        "cores": 8,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-8600K",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i3-10100",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Pentium G640",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core i9-9900KF",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i7-9700F",
+        "score": 37,
+        "cores": 8,
+        "clock": 4.7
+    },
+    {
+        "nome": "AMD Ryzen 3 2200G",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "AMD Ryzen 5 2400G",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i5-12500",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD Ryzen 5 5600X3D",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i3-9100F",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i5-8500",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i5-11600K",
+        "score": 29,
+        "cores": 6,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-7500T",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i5-4590",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "AMD Ryzen 5 1600 (12nm)",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.6
+    },
+    {
+        "nome": "AMD Athlon 3000G (14nm)",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i7-10700KF",
+        "score": 40,
+        "cores": 8,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i7-3770K",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Ryzen 9 3900XT",
+        "score": 56,
+        "cores": 12,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i3-10105F",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-7600",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i7-9700KF",
+        "score": 39,
+        "cores": 8,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i7-4770",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i5-3470",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD FX-8350",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "AMD Ryzen 5 1600X",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i7-11700KF",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i3-4150",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i7-11700",
+        "score": 39,
+        "cores": 8,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i7-6950X",
+        "score": 35,
+        "cores": 10,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-7600K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Ryzen 5 3500",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i3-13100",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i9-11900KF",
+        "score": 42,
+        "cores": 8,
+        "clock": 5.3
+    },
+    {
+        "nome": "AMD Ryzen 7 1700X",
+        "score": 30,
+        "cores": 8,
+        "clock": 3.8
+    },
+    {
+        "nome": "AMD Ryzen 7 3800XT",
+        "score": 37,
+        "cores": 8,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i7-13700",
+        "score": 83,
+        "cores": 16,
+        "clock": 5.2
+    },
+    {
+        "nome": "AMD Ryzen 3 3300X",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i9-14900F",
+        "score": 139,
+        "cores": 24,
+        "clock": 5.8
+    },
+    {
+        "nome": "AMD Ryzen 7 1800X",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "AMD Ryzen 5 3600XT",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i5-4570",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-11600KF",
+        "score": 29,
+        "cores": 6,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-2400",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i5-9600KF",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i5-9400",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i3-10105",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-4460",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Ryzen 3 1200 (14nm)",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-10600KF",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "AMD Ryzen 5 1400",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-6400",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-6800K",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i5-4570T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Ryzen 5 5600T",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Threadripper 2920X",
+        "score": 51,
+        "cores": 12,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i3-9100",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i3-7100",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i9-10900KF",
+        "score": 53,
+        "cores": 10,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Xeon E5-2687W V4",
+        "score": 42,
+        "cores": 12,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD FX-6300",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i9-14900",
+        "score": 139,
+        "cores": 24,
+        "clock": 5.8
+    },
+    {
+        "nome": "Intel Core i9-9900KS",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i5-9500",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i7-2600",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Ryzen 5 1500X",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-10500",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i9-10980XE",
+        "score": 86,
+        "cores": 18,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i9-7900X",
+        "score": 45,
+        "cores": 10,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i5-3570K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Ryzen 9 PRO 7945",
+        "score": 64,
+        "cores": 12,
+        "clock": 5.4
+    },
+    {
+        "nome": "Intel Core i3-4130",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-4690",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "AMD Threadripper 1950X",
+        "score": 64,
+        "cores": 16,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i7-5820K",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i5-6600",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Celeron G6900",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i9-13900",
+        "score": 134,
+        "cores": 24,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Pentium Gold G7400",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i9-9940X",
+        "score": 61,
+        "cores": 14,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Athlon 200GE",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-2500K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Threadripper 1920X",
+        "score": 48,
+        "cores": 12,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-8500T",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core 2 Duo E8400",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E3-1220 V6",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-3570",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium Gold G5420",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Pentium G4400",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i5-12600",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Celeron 420",
+        "score": 1,
+        "cores": 1,
+        "clock": 1.6
+    },
+    {
+        "nome": "Intel Core i9-10900F",
+        "score": 52,
+        "cores": 10,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core i9-10900",
+        "score": 52,
+        "cores": 10,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Celeron G5900",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i9-10900X",
+        "score": 47,
+        "cores": 10,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core i5-4670K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Threadripper 2970WX",
+        "score": 100,
+        "cores": 24,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i9-9820X",
+        "score": 41,
+        "cores": 10,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i5-13500T",
+        "score": 64,
+        "cores": 14,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i9-13900F",
+        "score": 134,
+        "cores": 24,
+        "clock": 5.6
+    },
+    {
+        "nome": "Intel Xeon E5-1650 V4",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-11600",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-8086K",
+        "score": 30,
+        "cores": 6,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Xeon E5-2690 V2",
+        "score": 36,
+        "cores": 10,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-2600K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-11500",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD FX-6350",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i9-9900",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i9-11900F",
+        "score": 41,
+        "cores": 8,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Core i7-6850K",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.8
+    },
+    {
+        "nome": "AMD FX-9590",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i9-12900F",
+        "score": 81,
+        "cores": 16,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Celeron G5905",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i9-12900",
+        "score": 81,
+        "cores": 16,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i5-14500T",
+        "score": 67,
+        "cores": 14,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-4770S",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i7-4930K",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i5-8600",
+        "score": 25,
+        "cores": 6,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i5-4440",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon X2 340",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Celeron G3930",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Pentium G4560",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD FX-8320",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-530",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.93
+    },
+    {
+        "nome": "Intel Core i3-12100T",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E5-2650 V4",
+        "score": 34,
+        "cores": 12,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Ryzen 3 1300X",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-9600",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i3-3220",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i5-10600",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Pentium Gold G6600",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Xeon E5-2698 V4",
+        "score": 72,
+        "cores": 20,
+        "clock": 3.6
+    },
+    {
+        "nome": "AMD Athlon II X2 240",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core i9-10920X",
+        "score": 57,
+        "cores": 12,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-2700K",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-7100T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i9-9900K (Standard Folding Box)",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core i7-7820X",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E5-2630 V4",
+        "score": 31,
+        "cores": 10,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i9-13900T",
+        "score": 127,
+        "cores": 24,
+        "clock": 5.3
+    },
+    {
+        "nome": "AMD FX-8300",
+        "score": 26,
+        "cores": 8,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-7800X",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i9-11900",
+        "score": 41,
+        "cores": 8,
+        "clock": 5.2
+    },
+    {
+        "nome": "Intel Pentium Gold G6400",
+        "score": 8,
+        "cores": 2,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-2667 V3",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E5-4620",
+        "score": 20,
+        "cores": 8,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i7-5960X",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Threadripper 2990WX",
+        "score": 134,
+        "cores": 32,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i3-2100",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "AMD Threadripper 2950X",
+        "score": 70,
+        "cores": 16,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-2500",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Celeron E3400",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i3-2120",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i3-4170",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i9-7920X",
+        "score": 52,
+        "cores": 12,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Xeon E5-2620",
+        "score": 12,
+        "cores": 6,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Core i9-9980XE",
+        "score": 79,
+        "cores": 18,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Ryzen 3 1200 (12nm)",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-4430",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i7-920",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core i7-4960X Extreme Edition",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-4670",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Threadripper 1900X",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-2630 V3",
+        "score": 25,
+        "cores": 8,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i7-5930K",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.7
+    },
+    {
+        "nome": "AMD FX-6100",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-13700T",
+        "score": 78,
+        "cores": 16,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i5-750",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Xeon E5-2697 V4",
+        "score": 64,
+        "cores": 18,
+        "clock": 3.6
+    },
+    {
+        "nome": "AMD Athlon II X4 640",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Ryzen 9 3900",
+        "score": 37,
+        "cores": 12,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i3-8350K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-3330",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i7-3930K",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2697 V2",
+        "score": 42,
+        "cores": 12,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i7-6900K",
+        "score": 29,
+        "cores": 8,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E5-2683 V4",
+        "score": 48,
+        "cores": 16,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-1620 V2",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "AMD Ryzen 5 PRO 7645",
+        "score": 30,
+        "cores": 6,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i9-10940X",
+        "score": 67,
+        "cores": 14,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-8700T",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-2690 V4",
+        "score": 49,
+        "cores": 14,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-13600",
+        "score": 70,
+        "cores": 14,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Celeron G5925",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-860",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core i7-6700T",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E5-2670 V3",
+        "score": 37,
+        "cores": 12,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i3-4160",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E5-2699 V3",
+        "score": 64,
+        "cores": 18,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Pentium Gold G5400",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E5-2680 V3",
+        "score": 39,
+        "cores": 12,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i5-7400T",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i7-7740X",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "AMD Ryzen 7 PRO 7745",
+        "score": 42,
+        "cores": 8,
+        "clock": 5.3
+    },
+    {
+        "nome": "Intel Core i9-7980XE",
+        "score": 79,
+        "cores": 18,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i7-990X Extreme Edition",
+        "score": 20,
+        "cores": 6,
+        "clock": 3.467
+    },
+    {
+        "nome": "Intel Core i7-3820",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i5-3450",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2650",
+        "score": 22,
+        "cores": 8,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD FX-4300",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-1630 V4",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9300",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core i3-3240",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Phenom II X6 1090T Black",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i7-980X Extreme Edition",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.33
+    },
+    {
+        "nome": "Intel Core 2 Quad Q6600",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Xeon E5-1620 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-4820K",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E5-2660 V3",
+        "score": 33,
+        "cores": 10,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i9-7960X",
+        "score": 70,
+        "cores": 16,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD FX-6120",
+        "score": 24,
+        "cores": 6,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E3-1230 V2",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-9800X",
+        "score": 36,
+        "cores": 8,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i5-9500F",
+        "score": 26,
+        "cores": 6,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-8400T",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E3-1231 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i7-3770S",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2680",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-9500T",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i3-10100T",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i7-7700T",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i3-13100T",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Pentium G3258",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-650",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i7-5775C",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9650",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Phenom II X6 1100T Black",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-4790S",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Celeron G3900",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon II 160u",
+        "score": 1,
+        "cores": 1,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Xeon E5-2697 V3",
+        "score": 50,
+        "cores": 14,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1270 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i5-6402P",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9550",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.83
+    },
+    {
+        "nome": "Intel Core 2 Duo E7500",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.93
+    },
+    {
+        "nome": "Intel Core i7-950",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.06
+    },
+    {
+        "nome": "Intel Xeon E5-2695 V4",
+        "score": 59,
+        "cores": 18,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i7-3970X Extreme Edition",
+        "score": 21,
+        "cores": 6,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-4570S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Core i3-10300",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i9-9900X",
+        "score": 44,
+        "cores": 10,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Phenom II X4 820",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X4 965 Black",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX9770",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-6500T",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i7-870",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.93
+    },
+    {
+        "nome": "Intel Core i3-6300",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2640 V4",
+        "score": 34,
+        "cores": 10,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i7-3960X Extreme Edition",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2680 V2",
+        "score": 36,
+        "cores": 10,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-10700K Avengers Collector's Edition",
+        "score": 40,
+        "cores": 8,
+        "clock": 5.1
+    },
+    {
+        "nome": "Intel Core i5-3550",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i3-7350K",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Xeon E5-2630",
+        "score": 13,
+        "cores": 6,
+        "clock": 2.3
+    },
+    {
+        "nome": "AMD Athlon X4 860K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Pentium G4600",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E-2288G",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Xeon E5-2695 V3",
+        "score": 46,
+        "cores": 14,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Pentium Gold G6405",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i5-2320",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i5-4590S",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i3-9100T",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-760",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium G645",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Xeon E3-1240 V2",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i3-7320",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E5-1620 V4",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i3-10320",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.6
+    },
+    {
+        "nome": "AMD FX-4100",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1240L V5",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1245 V6",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E5-1660 V3",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-2120T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i7-4771",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i9-9900T",
+        "score": 35,
+        "cores": 8,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i5-3470S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Core i9-10850KA Avengers Limited Edition",
+        "score": 52,
+        "cores": 10,
+        "clock": 5.2
+    },
+    {
+        "nome": "AMD FX-8320E",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-1650 V3",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Celeron G4900",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E-2286G",
+        "score": 29,
+        "cores": 6,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core i7-960",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1230 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E3-1241 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i9-9960X",
+        "score": 70,
+        "cores": 16,
+        "clock": 4.4
+    },
+    {
+        "nome": "AMD Phenom II X6 1055T",
+        "score": 16,
+        "cores": 6,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium G3220",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i7-2600S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Celeron 440",
+        "score": 2,
+        "cores": 1,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Core i3-3250",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E5-2620 V3",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2630 V2",
+        "score": 18,
+        "cores": 6,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2660 V4",
+        "score": 44,
+        "cores": 14,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Pentium G2020",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Core i5-3350P",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2667 V2",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX9775",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Athlon 220GE",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i3-9350KF",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Core i5-2400S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Xeon E3-1275 V2",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Pentium G2030",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-2670",
+        "score": 26,
+        "cores": 8,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2650 V3",
+        "score": 30,
+        "cores": 10,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Phenom II X4 955 Black",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2650L V2",
+        "score": 21,
+        "cores": 10,
+        "clock": 2.1
+    },
+    {
+        "nome": "Intel Xeon E5-2640 V3",
+        "score": 27,
+        "cores": 8,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i5-7640X",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Xeon E5-1680 V3",
+        "score": 30,
+        "cores": 8,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i3-9300",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i3-540",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.06
+    },
+    {
+        "nome": "AMD Athlon II X2 250",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i5-2300",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E3-1240 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2695 V2",
+        "score": 38,
+        "cores": 12,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1270 V5",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-4460S",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Core i3-8300",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i3-8100T",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i7-9700T",
+        "score": 34,
+        "cores": 8,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Pentium G630",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Xeon E5-2650L",
+        "score": 18,
+        "cores": 8,
+        "clock": 2.3
+    },
+    {
+        "nome": "Intel Core i5-2310",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD FX-9370",
+        "score": 37,
+        "cores": 8,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Xeon E5-2650 V2",
+        "score": 27,
+        "cores": 8,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E-2236",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Core i7-4790T",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core 2 Quad Q8400",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "AMD FX-8120",
+        "score": 24,
+        "cores": 8,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E3-1270 V2",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Athlon X4 950",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Celeron 430",
+        "score": 1,
+        "cores": 1,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Xeon E5-1650 V2",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i7-880",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.06
+    },
+    {
+        "nome": "Intel Core i5-3340",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2690 V3",
+        "score": 42,
+        "cores": 12,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E5-2650L V4",
+        "score": 35,
+        "cores": 14,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core i5-4590T",
+        "score": 8,
+        "cores": 4,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Pentium Gold G5400T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2698 V3",
+        "score": 57,
+        "cores": 16,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core 2 Duo E4300",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Core 2 Duo E8600",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.33
+    },
+    {
+        "nome": "AMD FX-8150",
+        "score": 28,
+        "cores": 8,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1220 V2",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i3-4330",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E3-1245 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2687W V3",
+        "score": 35,
+        "cores": 10,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-6100T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2620 V4",
+        "score": 24,
+        "cores": 8,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i9-7940X",
+        "score": 61,
+        "cores": 14,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Xeon E3-1220 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Athlon II X4 635",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Core i7-980",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.333
+    },
+    {
+        "nome": "Intel Pentium E2160",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Core i5-3450S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X4 945",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Pentium E5300",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i7-930",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon X2 370K",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Xeon E3-1271 V3",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-1650",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2637 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-6400T",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E3-1230 V6",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i7-875K",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.93
+    },
+    {
+        "nome": "AMD Phenom II X4 955",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Celeron G440",
+        "score": 1,
+        "cores": 1,
+        "clock": 1.6
+    },
+    {
+        "nome": "Intel Core i3-3210",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2670 V2",
+        "score": 33,
+        "cores": 10,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i5-4440S",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E-2278G",
+        "score": 40,
+        "cores": 8,
+        "clock": 5
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9550S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.83
+    },
+    {
+        "nome": "Intel Core i3-2100T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Xeon E5-2603 V3",
+        "score": 9,
+        "cores": 6,
+        "clock": 1.6
+    },
+    {
+        "nome": "Intel Xeon E5-2609 V4",
+        "score": 13,
+        "cores": 8,
+        "clock": 1.7
+    },
+    {
+        "nome": "Intel Core i3-550",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Phenom II X6 1075T",
+        "score": 18,
+        "cores": 6,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Phenom II X4 940 Black",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Pentium E5800",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i3-2130",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium G3240",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E3-1240 V5",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Core i3-6098P",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1285 V6",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E5-4650",
+        "score": 26,
+        "cores": 8,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon II X4 620",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Xeon E3-1245 V2",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E5-2687W V2",
+        "score": 32,
+        "cores": 8,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i5-5675C",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Pentium E2140",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.6
+    },
+    {
+        "nome": "Intel Core i5-4690S",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Pentium G3250",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-6600T",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E3-1245 V5",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Pentium G3260",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E-2176G",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Core 2 Duo E6400",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.13
+    },
+    {
+        "nome": "Intel Core i7-940",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.93
+    },
+    {
+        "nome": "AMD Athlon II X4 630",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Celeron G530",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Celeron G1610",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Celeron G4930",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core 2 Quad Q8200",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.33
+    },
+    {
+        "nome": "AMD Athlon II X2 270",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium G640T",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Celeron G4920",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9400",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "AMD Phenom II X4 970 Black",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Phenom II X4 980 Black",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Pentium G620",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "AMD Phenom II X6 1045T",
+        "score": 16,
+        "cores": 6,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD Athlon X4 750K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium G3420",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i3-4160T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "AMD FX-8310",
+        "score": 34,
+        "cores": 8,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Xeon E3-1230 V5",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i5-3570S",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i5-8600T",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E-2136",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Celeron G3920",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i3-3245",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E5-2630L V3",
+        "score": 23,
+        "cores": 8,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Xeon E-2274G",
+        "score": 19,
+        "cores": 4,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Core 2 Duo E4600",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core 2 Duo E8500",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.16
+    },
+    {
+        "nome": "Intel Core i7-970",
+        "score": 19,
+        "cores": 6,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Phenom II X4 965",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium G2120",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i3-3225",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i3-4130T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Xeon E5-2687W",
+        "score": 30,
+        "cores": 8,
+        "clock": 3.8
+    },
+    {
+        "nome": "AMD FX-8370E",
+        "score": 34,
+        "cores": 8,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Xeon E3-1265L V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E3-1280 V6",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Core i3-8300T",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Pentium Gold G5500",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i5-3330S",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-9400T",
+        "score": 20,
+        "cores": 6,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium Gold G6605",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Core i3-4340",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Celeron G3930T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD Phenom II X4 925",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium E6600",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.06
+    },
+    {
+        "nome": "Intel Core 2 Duo E6700",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Duo E7200",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.53
+    },
+    {
+        "nome": "Intel Core 2 Quad Q6700",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Quad Q8300",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX9650",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "AMD FX-8100",
+        "score": 22,
+        "cores": 8,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core i5-2550K",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD FX-6200",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Celeron G1840",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core i3-4370",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E3-1276 V3",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E3-1246 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E5-1620",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2643 V3",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i7-4770T",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Xeon E5-2603 V4",
+        "score": 10,
+        "cores": 6,
+        "clock": 1.7
+    },
+    {
+        "nome": "Intel Core i3-7300",
+        "score": 8,
+        "cores": 2,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Xeon E5-2643 V4",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.7
+    },
+    {
+        "nome": "AMD Athlon X4 970",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Core i9-9920X",
+        "score": 52,
+        "cores": 12,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i3-10325",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Pentium Gold G5600",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Celeron G5920",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E5-1660 V2",
+        "score": 24,
+        "cores": 6,
+        "clock": 4
+    },
+    {
+        "nome": "AMD Phenom II X2 555 Black",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Pentium E5200",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core 2 Duo E6320",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.86
+    },
+    {
+        "nome": "Intel Core 2 Duo E7400",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium G6950",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium E5500",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X4 840",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-2405S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "AMD Athlon X4 760K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E3-1225 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1275 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Celeron G1820",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Xeon E5-2690",
+        "score": 30,
+        "cores": 8,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2640 V2",
+        "score": 20,
+        "cores": 8,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Xeon E5-2660 V2",
+        "score": 30,
+        "cores": 10,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i3-4360",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E5-1630 V3",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i7-3770T",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Pentium G3470",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Xeon E3-1220 V5",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E3-1260L V5",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E3-1225 V5",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E3-1235L V5",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E3-1270 V6",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Xeon E-2174G",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.7
+    },
+    {
+        "nome": "Intel Xeon E-2246G",
+        "score": 28,
+        "cores": 6,
+        "clock": 4.8
+    },
+    {
+        "nome": "AMD Phenom II X4 830",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X4 975",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Pentium G870",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i3-6300T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon II X2 250u",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.6
+    },
+    {
+        "nome": "AMD Phenom II X4 905e",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Pentium E5400",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Core 2 Duo E6550",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.33
+    },
+    {
+        "nome": "Intel Core i5-680",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Core i7-965 Extreme Edition",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i7-975 Extreme Edition",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.33
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX6700",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Pentium G850",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Athlon II X4 631",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core i3-3220T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E3-1225",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E3-1275",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E3-1225 V2",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD FX-4130",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Core i3-4350",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Celeron G470",
+        "score": 2,
+        "cores": 1,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Xeon E5-2630L V2",
+        "score": 14,
+        "cores": 6,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Xeon E5-2609",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core i3-6320",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Pentium G4500",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E3-1275 V5",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Celeron G4900T",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Core i5-9600T",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E-2244G",
+        "score": 19,
+        "cores": 4,
+        "clock": 4.8
+    },
+    {
+        "nome": "Intel Xeon E-2276G",
+        "score": 29,
+        "cores": 6,
+        "clock": 4.9
+    },
+    {
+        "nome": "Intel Xeon E-2124G",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E5-2623 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-560",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.333
+    },
+    {
+        "nome": "AMD Athlon II X2 220",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon II X3 445",
+        "score": 9,
+        "cores": 3,
+        "clock": 3.1
+    },
+    {
+        "nome": "AMD Phenom II X2 550 Black",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Pentium E6500",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.93
+    },
+    {
+        "nome": "Intel Core 2 Duo E6750",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Duo E7600",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.06
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX6850",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Athlon II X4 645",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Pentium E6700",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Phenom II X6 1035T",
+        "score": 15,
+        "cores": 6,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Celeron G540",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core i3-2125",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Phenom II X4 970",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Xeon E3-1245",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E3-1270",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E3-1265L V2",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "AMD Athlon X4 740",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1226 V3",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E5-2643 V2",
+        "score": 22,
+        "cores": 6,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Xeon E5-2622 V3",
+        "score": 19,
+        "cores": 8,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Xeon E5-2685 V3",
+        "score": 39,
+        "cores": 12,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon X4 845",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "AMD Athlon 5370",
+        "score": 8,
+        "cores": 4,
+        "clock": 2.2
+    },
+    {
+        "nome": "AMD Athlon X4 870K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Core i3-7300T",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-7600T",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E3-1275 V6",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Athlon 240GE",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i3-9320",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.4
+    },
+    {
+        "nome": "Intel Core i3-9350K",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.6
+    },
+    {
+        "nome": "Intel Xeon E-2104G",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Celeron G5905T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Core i3-3240T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Phenom II X2 B59",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Athlon II X2 215",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD Athlon II X2 260",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Phenom II X2 550",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "AMD Athlon II X2 235e",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD Athlon II X2 240e",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X3 705e",
+        "score": 7,
+        "cores": 3,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Celeron E1200",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.6
+    },
+    {
+        "nome": "Intel Celeron E1400",
+        "score": 4,
+        "cores": 2,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Pentium E2180",
+        "score": 4,
+        "cores": 2,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Pentium E2200",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.2
+    },
+    {
+        "nome": "Intel Celeron E3300",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Pentium E6300",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Core 2 Duo E6420",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.13
+    },
+    {
+        "nome": "Intel Core i5-655K",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Core i5-660",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.33
+    },
+    {
+        "nome": "Intel Core i5-670",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.46
+    },
+    {
+        "nome": "Intel Core 2 Extreme QX6800",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.93
+    },
+    {
+        "nome": "Intel Core 2 Extreme X6800",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.93
+    },
+    {
+        "nome": "AMD Athlon II X3 450",
+        "score": 9,
+        "cores": 3,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Athlon II X3 455",
+        "score": 9,
+        "cores": 3,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Pentium E6800",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.333
+    },
+    {
+        "nome": "AMD Phenom II X3 720 Black",
+        "score": 8,
+        "cores": 3,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium G840",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Phenom II X4 960T Black",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "AMD A4-3400",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Xeon E3-1240",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Celeron G1620",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Xeon E5-1660",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Xeon E5-2665",
+        "score": 24,
+        "cores": 8,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E5-2620 V2",
+        "score": 15,
+        "cores": 6,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Pentium G3450",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Athlon II X4 651",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-2637 V2",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "AMD Athlon X4 840",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Pentium G3250T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E5-2650L V3",
+        "score": 30,
+        "cores": 12,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Core i5-4670S",
+        "score": 15,
+        "cores": 4,
+        "clock": 3.8
+    },
+    {
+        "nome": "Intel Pentium G4520",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.6
+    },
+    {
+        "nome": "Intel Pentium G4400T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Athlon X4 880K",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Pentium G4620",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E5-2450V2",
+        "score": 26,
+        "cores": 8,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2470V2",
+        "score": 32,
+        "cores": 10,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1240 V6",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "Intel Xeon E3-1225 V6",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Core i5-3550S",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.7
+    },
+    {
+        "nome": "Intel Xeon E-2144G",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E-2126G",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E-2124",
+        "score": 17,
+        "cores": 4,
+        "clock": 4.3
+    },
+    {
+        "nome": "Intel Pentium Gold G6500",
+        "score": 8,
+        "cores": 2,
+        "clock": 4.1
+    },
+    {
+        "nome": "AMD Athlon II X2 245",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Phenom II X3 720",
+        "score": 8,
+        "cores": 3,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon II X4 605e",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.3
+    },
+    {
+        "nome": "AMD Phenom II X4 910e",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Core 2 Duo E4500",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.2
+    },
+    {
+        "nome": "Intel Core 2 Duo E6850",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core 2 Duo E8300",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.83
+    },
+    {
+        "nome": "Intel Core i5-661",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.33
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9400S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "AMD Phenom II X2 565 Black",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Pentium G620T",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.2
+    },
+    {
+        "nome": "Intel Pentium G860",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Athlon II X4 641",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E3-1220",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Xeon E3-1230",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1235",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E3-1280",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.5
+    },
+    {
+        "nome": "Intel Core i5-3340S",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2603",
+        "score": 7,
+        "cores": 4,
+        "clock": 1.8
+    },
+    {
+        "nome": "AMD FX-4200",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon X2 450",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.9
+    },
+    {
+        "nome": "AMD Phenom II X4 B99",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2609 V3",
+        "score": 11,
+        "cores": 6,
+        "clock": 1.9
+    },
+    {
+        "nome": "Intel Pentium G4500T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-2658 V3",
+        "score": 34,
+        "cores": 12,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Xeon E5-2683 V3",
+        "score": 42,
+        "cores": 14,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Pentium G4600T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-2420V2",
+        "score": 16,
+        "cores": 6,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Core i7-870S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.667
+    },
+    {
+        "nome": "Intel Pentium Gold G5500T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Xeon E5-2660",
+        "score": 24,
+        "cores": 8,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E-2146G",
+        "score": 27,
+        "cores": 6,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Xeon E-2134",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i3-10305",
+        "score": 18,
+        "cores": 4,
+        "clock": 4.5
+    },
+    {
+        "nome": "Intel Core i5-4670T",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.3
+    },
+    {
+        "nome": "Intel Celeron G3950",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Athlon II X2 255",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "AMD Athlon II X3 435",
+        "score": 8,
+        "cores": 3,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Phenom II X2 545",
+        "score": 6,
+        "cores": 2,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Athlon II X3 400e",
+        "score": 6,
+        "cores": 3,
+        "clock": 2.2
+    },
+    {
+        "nome": "AMD Athlon II X3 405e",
+        "score": 6,
+        "cores": 3,
+        "clock": 2.3
+    },
+    {
+        "nome": "AMD Athlon II X3 415e",
+        "score": 7,
+        "cores": 3,
+        "clock": 2.5
+    },
+    {
+        "nome": "AMD Athlon II X4 600e",
+        "score": 8,
+        "cores": 4,
+        "clock": 2.2
+    },
+    {
+        "nome": "AMD Phenom II X3 740 Black",
+        "score": 9,
+        "cores": 3,
+        "clock": 3
+    },
+    {
+        "nome": "AMD Phenom II X4 965 Black (140W)",
+        "score": 13,
+        "cores": 4,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Celeron E1500",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.2
+    },
+    {
+        "nome": "Intel Celeron E1600",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Celeron E3200",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core 2 Duo E4400",
+        "score": 4,
+        "cores": 2,
+        "clock": 2
+    },
+    {
+        "nome": "Intel Core 2 Duo E7300",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Duo E8200",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core i5-750S",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core i7-860S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.53
+    },
+    {
+        "nome": "Intel Core 2 Quad Q8200S",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.33
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9450",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9505",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.83
+    },
+    {
+        "nome": "AMD Phenom II X2 560 Black",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD Athlon II X3 460",
+        "score": 10,
+        "cores": 3,
+        "clock": 3.4
+    },
+    {
+        "nome": "AMD Athlon II X3 440",
+        "score": 9,
+        "cores": 3,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Core i3-2105",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Pentium G630T",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.3
+    },
+    {
+        "nome": "Intel Core i5-2380P",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.1
+    },
+    {
+        "nome": "Intel Core i5-2450P",
+        "score": 12,
+        "cores": 4,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Pentium G550",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.6
+    },
+    {
+        "nome": "Intel Celeron G555",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD Athlon II X4 651K",
+        "score": 12,
+        "cores": 4,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Pentium G2130",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "Intel Pentium G3430",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Celeron G1630",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Pentium G2140",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "Intel Xeon E5-2609 V2",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "Intel Celeron G1850",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD FX-4320",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "AMD Athlon X4 530",
+        "score": 8,
+        "cores": 4,
+        "clock": 2
+    },
+    {
+        "nome": "AMD Athlon X4 550",
+        "score": 8,
+        "cores": 4,
+        "clock": 2.2
+    },
+    {
+        "nome": "AMD Athlon X2 350",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.9
+    },
+    {
+        "nome": "Intel Pentium G3460",
+        "score": 7,
+        "cores": 2,
+        "clock": 3.5
+    },
+    {
+        "nome": "AMD Phenom II X6 1065T",
+        "score": 16,
+        "cores": 6,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Xeon E5-2603 V2",
+        "score": 7,
+        "cores": 4,
+        "clock": 1.8
+    },
+    {
+        "nome": "Intel Xeon E3-1280 V5",
+        "score": 16,
+        "cores": 4,
+        "clock": 4
+    },
+    {
+        "nome": "Intel Pentium G4560T",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "Intel Core i3-7101TE",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.4
+    },
+    {
+        "nome": "Intel Xeon E5-2430V2",
+        "score": 18,
+        "cores": 6,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Xeon E5-2440V2",
+        "score": 19,
+        "cores": 8,
+        "clock": 2.4
+    },
+    {
+        "nome": "AMD Athlon X4 940",
+        "score": 14,
+        "cores": 4,
+        "clock": 3.6
+    },
+    {
+        "nome": "AMD Athlon II X3 425",
+        "score": 8,
+        "cores": 3,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Celeron 450",
+        "score": 2,
+        "cores": 1,
+        "clock": 2.2
+    },
+    {
+        "nome": "AMD Phenom II X3 710",
+        "score": 7,
+        "cores": 3,
+        "clock": 2.6
+    },
+    {
+        "nome": "AMD Phenom II X4 805",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.5
+    },
+    {
+        "nome": "AMD Phenom II X4 810",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.6
+    },
+    {
+        "nome": "AMD Phenom II X4 910",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.6
+    },
+    {
+        "nome": "AMD Phenom II X4 920",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon II X2 245e",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.9
+    },
+    {
+        "nome": "AMD Athlon II X2 260u",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.8
+    },
+    {
+        "nome": "AMD Athlon II X4 610e",
+        "score": 9,
+        "cores": 4,
+        "clock": 2.4
+    },
+    {
+        "nome": "Intel Core 2 Duo E6540",
+        "score": 4,
+        "cores": 2,
+        "clock": 2.33
+    },
+    {
+        "nome": "Intel Core 2 Duo E8190",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Quad Q8400S",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.66
+    },
+    {
+        "nome": "Intel Core 2 Quad Q9505S",
+        "score": 11,
+        "cores": 4,
+        "clock": 2.83
+    },
+    {
+        "nome": "AMD Athlon II X2 265",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    },
+    {
+        "nome": "AMD Phenom II X3 715 Black",
+        "score": 8,
+        "cores": 3,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Celeron E3500",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.7
+    },
+    {
+        "nome": "AMD FX-4170",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.2
+    },
+    {
+        "nome": "Intel Celeron G465",
+        "score": 3,
+        "cores": 2,
+        "clock": 1.9
+    },
+    {
+        "nome": "Intel Pentium G2010",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Celeron G1830",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "Intel Xeon E5-2640",
+        "score": 18,
+        "cores": 6,
+        "clock": 3
+    },
+    {
+        "nome": "Intel Pentium G3440",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.3
+    },
+    {
+        "nome": "AMD FX-4150",
+        "score": 16,
+        "cores": 4,
+        "clock": 4.1
+    },
+    {
+        "nome": "AMD FX-6130",
+        "score": 23,
+        "cores": 6,
+        "clock": 3.9
+    },
+    {
+        "nome": "AMD FX-8140",
+        "score": 32,
+        "cores": 8,
+        "clock": 4.1
+    },
+    {
+        "nome": "AMD Athlon II X2 221",
+        "score": 5,
+        "cores": 2,
+        "clock": 2.8
+    },
+    {
+        "nome": "AMD Athlon II X4 638",
+        "score": 10,
+        "cores": 4,
+        "clock": 2.7
+    },
+    {
+        "nome": "Intel Core i3-4360T",
+        "score": 6,
+        "cores": 2,
+        "clock": 3.2
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "nome": "GTX 960",
+        "perf": 22
+    },
+    {
+        "nome": "GTX 970",
+        "perf": 30
+    },
+    {
+        "nome": "GTX 980",
+        "perf": 36
+    },
+    {
+        "nome": "GTX 980 Ti",
+        "perf": 42
+    },
+    {
+        "nome": "Radeon R9 380",
+        "perf": 24
+    },
+    {
+        "nome": "Radeon R9 390",
+        "perf": 32
+    },
+    {
+        "nome": "Radeon R9 Fury",
+        "perf": 40
+    },
+    {
+        "nome": "GTX 1050 Ti",
+        "perf": 25
+    },
+    {
+        "nome": "GTX 1060 6GB",
+        "perf": 38
+    },
+    {
+        "nome": "GTX 1070",
+        "perf": 52
+    },
+    {
+        "nome": "GTX 1080",
+        "perf": 65
+    },
+    {
+        "nome": "GTX 1080 Ti",
+        "perf": 78
+    },
+    {
+        "nome": "Radeon RX 470",
+        "perf": 35
+    },
+    {
+        "nome": "Radeon RX 480",
+        "perf": 40
+    },
+    {
+        "nome": "Radeon RX 580",
+        "perf": 42
+    },
+    {
+        "nome": "Radeon RX Vega 56",
+        "perf": 60
+    },
+    {
+        "nome": "Radeon RX Vega 64",
+        "perf": 65
+    },
+    {
+        "nome": "RTX 2060",
+        "perf": 60
+    },
+    {
+        "nome": "RTX 2060 Super",
+        "perf": 65
+    },
+    {
+        "nome": "RTX 2070",
+        "perf": 70
+    },
+    {
+        "nome": "RTX 2070 Super",
+        "perf": 75
+    },
+    {
+        "nome": "RTX 2080",
+        "perf": 80
+    },
+    {
+        "nome": "RTX 2080 Ti",
+        "perf": 90
+    },
+    {
+        "nome": "RX 5600 XT",
+        "perf": 60
+    },
+    {
+        "nome": "RX 5700 XT",
+        "perf": 75
+    },
+    {
+        "nome": "RTX 3060",
+        "perf": 78
+    },
+    {
+        "nome": "RTX 3060 Ti",
+        "perf": 88
+    },
+    {
+        "nome": "RTX 3070",
+        "perf": 95
+    },
+    {
+        "nome": "RTX 3080",
+        "perf": 110
+    },
+    {
+        "nome": "RX 6600",
+        "perf": 70
+    },
+    {
+        "nome": "RX 6700 XT",
+        "perf": 88
+    },
+    {
+        "nome": "RX 6800 XT",
+        "perf": 105
+    },
+    {
+        "nome": "RTX 4060",
+        "perf": 80
+    },
+    {
+        "nome": "RTX 4060 Ti",
+        "perf": 90
+    },
+    {
+        "nome": "RTX 4070",
+        "perf": 105
+    },
+    {
+        "nome": "RX 7600",
+        "perf": 82
+    },
+    {
+        "nome": "RX 7700 XT",
+        "perf": 98
+    },
+    {
+        "nome": "RX 7800 XT",
+        "perf": 112
+    }
+]
