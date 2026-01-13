@@ -1,3 +1,4 @@
+# Calculadora de IMC em Python com classificação do resultado.
 nome = input('Digite seu nome: ')
 peso_str = input('Digite seu peso (kg): ')
 peso = float(peso_str.replace(',', '.'))
@@ -17,3 +18,4 @@ else:
 
 print(nome, 'você tem', altura, 'de altura')
 print('pesa', peso, 'quilos e seu imc é:', imc_arredondado)
+
