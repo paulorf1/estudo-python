@@ -1,3 +1,5 @@
+# Calculadora básica com operações matemáticas em Python.
+
 while True: # loop infinito, a calculadora continuará pedindo entradas até que uma condição break seja satisfeita
     num_1 = input('Digite o primeiro número: ') # Pede o primeiro número ao usuário
     operador = input('Digite o operador: (+, -, *, /:) ') # Pede o operador ao usuário
