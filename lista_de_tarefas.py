@@ -1,3 +1,5 @@
+# Este projeto é um gerenciador de tarefas em linha de comando, com persistência de dados em arquivo JSON. 
+# O objetivo é praticar conceitos fundamentais da linguagem, incluindo funções, classes, listas, manipulação de arquivos e serialização em JSON.
 import json
 
 
