@@ -1,3 +1,5 @@
+# Jogo de adivinhação de palavra para praticar loops e controle de tentativas.
+
 import os # O módulo os é importado para permitir a interação com o sistema operacional
 palavra_secreta = 'microsoft' # defini a palavra que o user deve adivinhar
 letras_acertadas = '' # string vazia para armazenar as letrar que o user digitou corretamente
