@@ -1,3 +1,5 @@
+# Exercício em Python com perguntas e respostas para praticar condicionais e entrada de dados.
+
 perguntas = [
     {
         'Pergunta': 'Quanto é 2+2?',
