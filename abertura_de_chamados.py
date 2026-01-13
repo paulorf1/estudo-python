@@ -1,4 +1,5 @@
 # Simulação de abertura de chamados para praticar lógica e organização de dados.
+
 def mostrar_menu():
     print('1 - Abrir chamado')
     print('2 - Listar chamados')
@@ -58,4 +59,5 @@ while True:
         break
     else:
         print('Opção inválida')
+
 
