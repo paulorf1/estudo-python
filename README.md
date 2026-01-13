@@ -1,72 +1,71 @@
-Repositório com exercícios e pequenos projetos desenvolvidos durante meus estudos em Python, com foco em fundamentos, lógica de programação, boas práticas e introdução à programação orientada a objetos.
-O objetivo é consolidar conceitos por meio de exemplos práticos, registrando a evolução do aprendizado e construindo um portfólio técnico.
+👋 Paulo Filho
 
-🧩 Fundamentos e Lógica
+🎯 Estudante e praticante de Python, focado em fundamentos, lógica de programação e evolução para projetos mais estruturados.
 
-Exercícios voltados para prática de entrada de dados, condicionais, laços e manipulação de strings.
+💻 Utilizo este repositório para registrar meus exercícios e pequenos projetos, aplicando na prática os conceitos estudados em cursos e estudos autodidatas.
 
-Perguntas e Respostas
-Mini quiz para praticar if/else e validação de respostas.
+📈 Objetivo: consolidar base sólida em programação e avançar gradualmente para projetos de maior complexidade.
 
-nome_ao_contrario.py
-Inversão de texto utilizando manipulação de strings.
+🚀 O que estou estudando atualmente
 
-calculadora_simples.py
-Calculadora básica com operações matemáticas.
+- 🐍 Python (fundamentos, funções e POO)
 
-calculadora_imc.py
-Cálculo de IMC com classificação do resultado.
+- 🧠 Lógica de Programação
 
-📋 Estruturas de Dados e Interação
+- 🗂 Organização de código e boas práticas
 
-Scripts que utilizam listas e menus simples no terminal.
+- 🔧 Git e GitHub para versionamento
 
-lista_de_compras.py
-Lista interativa para adicionar, remover e visualizar itens.
+🧩 Exercícios e Projetos
+📘 Fundamentos e Lógica
 
-abertura_de_chamados.py
-Simulação de abertura de chamados para praticar organização de dados e fluxo de execução.
+- ✅ Perguntas e Respostas (mini quiz)
 
-🔐 Algoritmos e Regras de Negócio
+- ✅ Calculadora Simples
 
-Exercícios com aplicação de regras matemáticas e validações.
+- ✅ Calculadora de IMC
 
-gerador_de_cpf_valido.py
-Geração de CPF válido com cálculo dos dígitos verificadores.
+- ✅ Nome ao Contrário
 
-🎮 Simulações e Programação Orientada a Objetos
+📋 Estruturas de Dados
 
-Projetos um pouco mais estruturados, com uso de classes e regras de simulação.
+- ✅ Lista de Compras (menu interativo)
 
-vai_rodar_o_que.py
-Simulação de desempenho de jogos com base em CPU, GPU e resolução, utilizando classes para representar componentes e calcular FPS estimado.
+- ✅ Abertura de Chamados (simulação)
 
-Conceitos aplicados:
+🔐 Algoritmos
 
-Classes e objetos
+- ✅ Gerador de CPF Válido
 
-Métodos
+🎮 Simulação e POO
 
-Regras de negócio
+- ✅ Vai Rodar o Quê?
+Simulação de desempenho de jogos considerando CPU, GPU e resolução, utilizando classes e regras de negócio.
 
-Organização de código
+🛠 Tecnologias
 
-🛠 Tecnologias Utilizadas
+- 🐍 Python 3.x
 
-Python 3.x
+- 🖥 VS Code
 
-VS Code
+- 🌱 Git / GitHub
 
-Git e GitHub
+📌 Objetivo deste Repositório
 
-🎯 Objetivo do Repositório
+- Praticar conceitos fundamentais de Python
 
-Praticar fundamentos da linguagem Python
+- Aplicar lógica em problemas reais e simulações
 
-Aplicar conceitos em exemplos reais
+- Evoluir para projetos com melhor estrutura
 
-Evoluir gradualmente para projetos mais estruturados
+- Construir um portfólio técnico de aprendizado
 
-Construir base para futuros projetos maiores
+📌 Repositório em constante atualização conforme avanço nos estudos.
 
-Repositório em constante atualização conforme avanço nos estudos.
+🤝 Contato e Networking
+
+- 🔗 GitHub: https://github.com/paulorf1
+
+- 💼 LinkedIn: https://www.linkedin.com/in/paulo-ramos-filho/
+
+Sempre aberto a trocar experiências e aprender com a comunidade.
