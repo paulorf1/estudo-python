@@ -1,3 +1,5 @@
+# Inversão de texto para praticar manipulação de strings.
+
 nome = input('Digite o seu nome:') #pede ao usuário para digitar o nome, e armazena na variavel nome
 idade = input('Digite a sua idade:') #pede ao usuário para digitar a idade, e armazena na variavel idade
 if nome and idade: # o and verifica se ambas as variaveis contem algum valor (não são vazias), se tiverem valor executa o codigo dentro do if
