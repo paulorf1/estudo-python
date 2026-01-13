@@ -1,3 +1,5 @@
+# Lista de compras interativa para praticar listas e menus.
+
 import os # importa o modulo OS, permite interagir com o sistema operacional
 
 lista = [] # criação da variavel lista [] vazia
