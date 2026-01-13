@@ -1,3 +1,5 @@
+# Gerador de CPF válido utilizando regras matemáticas do algoritmo oficial.
+
 import random
 import sys
 
