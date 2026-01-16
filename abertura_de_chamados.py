@@ -1,3 +1,10 @@
+"""
+Projeto: Abertura de Chamados
+Descrição: Sistema em console para registro e listagem de chamados, simulando um fluxo básico de atendimento.
+Utiliza listas e dicionários para armazenar as informações dos chamados e menus interativos para navegação.
+Autor: Paulo Ramos
+"""
+
 # Simulação de abertura de chamados para praticar lógica e organização de dados.
 
 def mostrar_menu():
@@ -59,5 +66,6 @@ while True:
         break
     else:
         print('Opção inválida')
+
 
 
