@@ -1,3 +1,10 @@
+"""
+Projeto: Nome ao Contrário
+Descrição: Recebe um texto do usuário e exibe a string invertida, praticando manipulação de strings
+e entrada de dados via console.
+Autor: Paulo Ramos
+"""
+
 # Inversão de texto para praticar manipulação de strings.
 
 nome = input('Digite o seu nome:') #pede ao usuário para digitar o nome, e armazena na variavel nome
