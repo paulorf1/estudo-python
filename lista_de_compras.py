@@ -1,3 +1,10 @@
+"""
+Projeto: Lista de Compras
+Descrição: Aplicação simples para adicionar, remover e listar itens de uma lista de compras,
+utilizando listas e menus interativos em console.
+Autor: Paulo Ramos
+"""
+
 # Lista de compras interativa para praticar listas e menus.
 
 import os # importa o modulo OS, permite interagir com o sistema operacional
