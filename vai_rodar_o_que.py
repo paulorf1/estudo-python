@@ -1,3 +1,10 @@
+"""
+Projeto: Vai Rodar o Quê?
+Descrição: Programa interativo que seleciona atividades de forma aleatória a partir de uma lista,
+utilizando a biblioteca random para auxiliar na escolha.
+Autor: Paulo Ramos
+"""
+
 # Simulação de desempenho de jogos com base em CPU, GPU e resolução.
 
 import json  # Biblioteca para ler arquivos no formato JSON
