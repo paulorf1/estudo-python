@@ -1,3 +1,9 @@
+"""
+Projeto: Planejador de Treino
+Descrição: Sistema em console para cadastro e gerenciamento de treinos e exercícios.
+Autor: Paulo Ramos
+"""
+
 # Sistema de planejamento de treinos em console que permite cadastrar treinos, adicionar exercícios, registrar status de execução 
 # e listar treinos por categoria. Utiliza listas, dicionários, funções e menus interativos
 def menu():
