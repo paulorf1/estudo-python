@@ -1,3 +1,5 @@
+# Sistema de planejamento de treinos em console que permite cadastrar treinos, adicionar exercícios, registrar status de execução 
+# e listar treinos por categoria. Utiliza listas, dicionários, funções e menus interativos
 def menu():
     print('1 - Criar treino')
     print('2 - Listar treino')
