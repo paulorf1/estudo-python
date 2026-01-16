@@ -1,3 +1,9 @@
+"""
+Projeto: Jogo de Decisão
+Descrição: Jogo interativo em console baseado em escolhas do usuário, com múltiplos caminhos e finais.
+Autor: Paulo Ramos
+"""
+
 # Jogo interativo em console baseado em escolhas do usuário, onde cada decisão leva a diferentes resultados
 # Utiliza estruturas condicionais, laços de repetição e controle de fluxo para simular múltiplos caminhos da história
 
