@@ -1,3 +1,13 @@
+"""
+Projeto: Lista de Tarefas
+Descrição: Gerenciador de tarefas em console com persistência em JSON.
+Autor: Paulo Ramos
+"""
+
+# Este projeto é um gerenciador de tarefas em linha de comando, com persistência de dados em arquivo JSON.
+# O objetivo é praticar conceitos fundamentais da linguagem, incluindo funções, classes, listas, manipulação de arquivos e serialização em JSON.
+
+import json
 from tarefas import listar_tarefas, adicionar_tarefa, remover_tarefa
 
 
