@@ -1,3 +1,10 @@
+"""
+Projeto: Jogo da Palavra Secreta
+Descrição: Jogo em console no estilo forca, no qual o usuário tenta adivinhar a palavra secreta com
+número limitado de tentativas. Pratica laços de repetição e manipulação de strings.
+Autor: Paulo Ramos
+"""
+
 # Jogo de adivinhação de palavra para praticar loops e controle de tentativas.
 
 import os # O módulo os é importado para permitir a interação com o sistema operacional
