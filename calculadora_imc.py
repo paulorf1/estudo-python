@@ -1,3 +1,10 @@
+"""
+Projeto: Calculadora de IMC
+Descrição: Calcula o Índice de Massa Corporal a partir do peso e altura informados pelo usuário e exibe
+a classificação conforme faixas padrão de IMC.
+Autor: Paulo Ramos
+"""
+
 # Calculadora de IMC em Python com classificação do resultado.
 nome = input('Digite seu nome: ')
 peso_str = input('Digite seu peso (kg): ')
@@ -18,4 +25,5 @@ else:
 
 print(nome, 'você tem', altura, 'de altura')
 print('pesa', peso, 'quilos e seu imc é:', imc_arredondado)
+
 
