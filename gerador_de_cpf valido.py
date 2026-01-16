@@ -1,3 +1,10 @@
+"""
+Projeto: Gerador de CPF Válido
+Descrição: Gera números de CPF válidos calculando os dígitos verificadores de acordo com as regras oficiais.
+Pratica lógica matemática, manipulação de listas e validação de dados.
+Autor: Paulo Ramos
+"""
+
 # Gerador de CPF válido utilizando regras matemáticas do algoritmo oficial.
 
 import random
