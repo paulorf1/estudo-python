@@ -1,91 +1,111 @@
-energia = 100
-forca = 10
-vida = 100
-lesao = False
+def menu():
+    print('1 - Criar treino')
+    print('2 - Listar treino')
+    print('3 - Adicionar exercício ao treino')
+    print('4 - Registrar treino realizado')
+    print('0 - Sair')
 
-print("Missão academia")
-print("Você chegou para treinar!")
 
-# Decisão 1 - Aquecimento
+treinos = []
 
-print("\n Você vai começar com: ")
-print("1 - Aquecimento")
-print("2 - Ir direto para o treino pesado: ")
 
-opcao = input("Escolha: ")
+def criar_treino():
+    nome = input('Nome do treino (ex: A, B, Peito, Costa): ')
+    id_treino = len(treinos) + 1
 
-if opcao == "1":
-    print("Bom! Você se aqueceu.")
-    energia -= 10
-    forca += 2
+    treino = {
+        'id': id_treino,
+        'nome': nome,
+        'exercicios': [],
+        'realizado': False
+    }
+    treinos.append(treino)
+    print('Treino criado com sucesso!')
 
-else:
-    print("Você pulou o aquecimento...")
-    energia -= 5
-    lesao = True
+    pass
 
-# Decisão 2 - Treino
 
-if lesao:
-    print("\nVocê está lesionado e não consegue treinar pesado.")
-else:
-    print("\n Agora você escolhe: ")
-    print("1 - Treino de força")
-    print("2 - Cardio intenso")
-
-    opcao = input("Escolha: ")
-
-    if opcao == "1":
-        print("Treino pesado de força")
-        energia -= 30
-        forca += 5
-        vida -= 25
+def listar_treinos():
+    if not treinos:
+        print('Nenhum treino cadastrado.')
     else:
-        print("Cardio puxado!")
-        energia -= 25
-        forca += 2
-        vida -= 10
+        for treino in treinos:
+            status = 'Realizado' if treino['realizado'] else 'Não realizado'
+            print(f"[{treino['id']}] Treino {treino['nome']} - {status}")
 
-# Decisão 3 - verificação de vida
-
-if vida <= 0:
-    print("você desmaiou no treino! Fim de jogo. ")
-    exit()
-
-print("\n Antes de ir embora você escolhe: ")
-print("1 - Tomar suplemento")
-print("2 - Ir embora direto")
-
-opcao = input("Escolha: ")
-
-if opcao == '1':
-    print("Você tomou suplemento e recuperou desempenho!")
-    vida += 15
-    if vida > 100:
-        vida = 100
-    energia -= 10
-    forca += 3
-else:
-    print("Você foi embora descansar.")
+            if not treino['exercicios']:
+                print('   Sem exercícios cadastrados.')
+            else:
+                for exercicio in treino['exercicios']:
+                    print(
+                        f"   - {exercicio['nome']} | {exercicio['series']}x{exercicio['repeticoes']}")
 
 
-# Resultado final
+def adicionar_exercicio():
+    if not treinos:
+        print('Nenhum treino cadastrado.')
+        return
 
-print("\n === Resultado do dia === ")
-print(f"Energia: {energia}")
-print(f"Força: {forca}")
+    listar_treinos()
+    entrada = input('Digite o ID do treino: ')
 
-if lesao:
-    print("Você se lesionou por falta de aquecimento ")
+    try:
+        id_treino = int(entrada)
+    except ValueError:
+        print('Por favor, digite um número para o ID.')
+        return
 
-if energia <= 0:
-    print("Você saiu totalmente exausto! ")
+    treino_encontrado = None
 
-if forca >= 20 and not lesao:
-    print("Excelente treino! Evolução máxima ")
+    for treino in treinos:
+        if treino['id'] == id_treino:
+            treino_encontrado = treino
+            break
 
-elif forca >= 15:
-    print("Bom treino! ")
+    if treino_encontrado is None:
+        print('Treino não encontrado.')
+        return
 
-else:
-    print("treino fofo hoje...")
+    nome = input('Nome do exercício: ')
+    series = input('Número de séries: ')
+    repeticoes = input('Repetições: ')
+
+    exercicio = {
+        'nome': nome,
+        'series': series,
+        'repeticoes': repeticoes
+    }
+
+    treino_encontrado['exercicios'].append(exercicio)
+    print('Exercício adicionado ao treino com sucesso! ')
+
+
+def registrar_treino():
+    if not treinos:
+        print('Nenhum treino cadastrado.')
+        return
+    listar_treinos()
+    id_treino = int(input('Digite o ID do treino realizado: '))
+    for treino in treinos:
+        if treino['id'] == id_treino:
+            treino['realizado'] = True
+            print('Treino registrado como realizado.')
+            return
+        print('Treino não encontrado.')
+
+
+while True:
+    menu()
+    opcao = input('Escolha uma das opções: ')
+    if opcao == '1':
+        criar_treino()
+    elif opcao == '2':
+        listar_treinos()
+    elif opcao == '3':
+        adicionar_exercicio()
+    elif opcao == '4':
+        registrar_treino()
+    elif opcao == '0':
+        break
+    else:
+        print('Opção invalida!')
