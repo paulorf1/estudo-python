@@ -1,3 +1,6 @@
+# Jogo interativo em console baseado em escolhas do usuário, onde cada decisão leva a diferentes resultados
+# Utiliza estruturas condicionais, laços de repetição e controle de fluxo para simular múltiplos caminhos da história
+
 energia = 100
 forca = 10
 vida = 100
