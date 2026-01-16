@@ -1,3 +1,10 @@
+"""
+Projeto: Calculadora Simples
+Descrição: Calculadora em console com operações básicas (soma, subtração, multiplicação e divisão),
+utilizando funções e validação de entrada do usuário.
+Autor: Paulo Ramos
+"""
+
 # Calculadora básica com operações matemáticas em Python.
 
 while True: # loop infinito, a calculadora continuará pedindo entradas até que uma condição break seja satisfeita
