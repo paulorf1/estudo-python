@@ -3,8 +3,8 @@ from chamados import listar_chamados, abrir_chamado, fechar_chamado
 
 def menu():
     print("=== SISTEMA DE CHAMADOS ===")
-    print("1 - Listar chamados")
-    print("2 - Abrir chamado")
+    print("1 - Abrir chamado")
+    print("2 - Listar chamados")
     print("3 - Fechar chamado")
     print("0 - Sair")
 
