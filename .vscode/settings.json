@@ -1,4 +1,51 @@
 {
+    "window.zoomLevel": 1,
+    "editor.fontSize": 21,
+    "editor.fontFamily": "Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
+    "editor.hover.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontSize": 21,
+    "terminal.integrated.fontFamily": "",
+    "python.terminal.activateEnvironment": false,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.fixAll.unusedImports": "explicit",
+            "source.organizeImports": "explicit"
+        }
+    },
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
     "python.analysis.autoImportCompletions": false,
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUnknownMemberType": "none",
+        "reportUnknownArgumentType": "none",
+        "reportUnknownVariableType": "none",
+        "reportUnknownLambdaType": "none",
+        "reportUnknownParameterType": "none"
+    },
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "files.autoSaveWhenNoErrors": true,
+    "cSpell.enabled": true
+    // "python.defaultInterpreterPath": "./venv/bin/python"
 }
